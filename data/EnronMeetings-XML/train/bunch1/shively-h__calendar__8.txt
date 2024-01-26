@@ -1,0 +1,16 @@
+Message-ID: <12024104.1072119978053.JavaMail.evans@thyme>
+Date: Fri, 26 Oct 2001 08:31:36 -0700 (PDT)
+From: alexandra.villarreal@enron.com
+To: john.arnold@enron.com, scott.neal@enron.com, a..martin@enron.com, 
+	mike.grigsby@enron.com, john.lavorato@enron.com
+Subject: Mtg. regarding Index Postings
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+Attendees:	<true_name> Hunter Shively
+		 </true_name> John Lavorato
+		John Arnold
+		<true_name> Scott Neal
+		 </true_name> <true_name> Tom Martin
+		 </true_name> <true_name> Mike Grigsby </true_name> 

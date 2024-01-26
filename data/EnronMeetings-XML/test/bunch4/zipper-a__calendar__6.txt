@@ -1,0 +1,19 @@
+Message-ID:  31099902.1072121670759.JavaMail.evans@thyme 
+Date: Tue, 17 Apr 2001 07:53:09 -0700 (PDT)
+From: rex.shelby@enron.com
+To: rex.shelby@enron.com, andy.zipper@enron.com, david.berberian@enron.com, 
+	david.forster@enron.com, john.pavetto@enron.com, 
+	mike.haney@enron.com, s..palmer@enron.com, tina.spiller@enron.com, 
+	lydia.cannon@enron.com, irma.fuentes@enron.com
+Subject: Updated: EnronOnline application sales team update for <true_name> Greg  </true_name> and
+ <true_name> Andy
+ </true_name> Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+The purpose is to share and discuss:
+
+The scripts for the three application options
+The team assignments and status of ongoing customer discussions
+Pricing alternatives
+Support issues.

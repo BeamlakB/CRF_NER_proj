@@ -1,0 +1,25 @@
+Message-ID:  11520594.1072121654100.JavaMail.evans@thyme
+Date: Fri, 14 Sep 2001 08:32:54 -0700 (PDT)
+From: debra.bailey@enron.com
+To: debra.bailey@enron.com, david.poston@enron.com, l..day@enron.com, 
+	a..allen@enron.com, m..grace@enron.com, corry.bentley@enron.com, 
+	madhup.kumar@enron.com
+Subject: ESCA Project Status (ERCOT)
+Cc: lloyd.will@enron.com, steve.nat@enron.com, w..white@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: lloyd.will@enron.com, steve.nat@enron.com, w..white@enron.com
+
+<true_name> Valentine  </true_name> and <true_name> Jayant </true_name> .  We can telecon you in.  
+
+<true_name> Thresa Allen  </true_name> and I would like to hold a weekly meeting to discuss ERCOT activities as a group.  For our first meeting, we would like ESCA to provide a review and status of the system development efforts thus far.  In addition we would like to cover the systems plan for volume mngt and settlements.  
+
+On a weekly basis, we will only meet for 30 min to an hour to cover status of our progress for the week.  I'll send out a separate meeting notice for the weekly meeting.  
+
+Please let me know if you have any questions or suggestions.  
+
+Thank you.  
+
+<true_name> Debra
+ </true_name> X31657

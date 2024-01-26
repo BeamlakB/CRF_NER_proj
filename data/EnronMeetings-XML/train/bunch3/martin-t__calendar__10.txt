@@ -1,0 +1,14 @@
+Message-ID: <19141435.1072120809728.JavaMail.evans@thyme>
+Date: Mon, 22 Oct 2001 12:37:33 -0700 (PDT)
+From: s..shively@enron.com
+To: s..shively@enron.com
+Subject: Gas Daily Swaps/Electronic Index Postings
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+Attendees:	<true_name> Scott Neal
+		 </true_name> <true_name> Tom Martin
+		 </true_name> Mike Grigsby
+		John Arnold
+		<true_name> Pete Keavey </true_name> 

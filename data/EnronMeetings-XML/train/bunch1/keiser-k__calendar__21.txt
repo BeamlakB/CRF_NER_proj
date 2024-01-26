@@ -1,0 +1,31 @@
+Message-ID: <1943804.1072119843022.JavaMail.evans@thyme>
+Date: Thu, 11 Oct 2001 08:52:42 -0700 (PDT)
+From: monica.clay@enron.com
+To: monica.clay@enron.com, karima.husain@enron.com, s..lim@enron.com, 
+	oscar.rivera@enron.com, luchas.johnson@enron.com, 
+	kelly.lombardi@enron.com, jenny.helton@enron.com, 
+	kam.keiser@enron.com
+Subject: Updated: Gas Daily Settlement Prices
+Cc: cecilia.cheung@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: cecilia.cheung@enron.com
+
+The meeting will be held in Conference Room 3AC18C3 in the 3 Allen Center.  There are no rooms available in this building.  I will see you all there.
+
+<true_name> Monica
+
+
+
+
+ </true_name> I am <true_name> Monica Clay </true_name> , a new Business Analyst in the Gas Tactical group.  One of my first tasks has been to cut down on IT handling of data.
+
+We have gone over the process for getting data into the ERMS database and there have been times that IT has move data around after changes or inserts have beeen made.  To prevent this we would like to introduce an addition to the process to keep all data in the Business Unit's hands.  We would like your input on the small change to the process and the pub_postings screen that is used often by many.
+
+Please contact me if you have any questions or comments.
+
+Thank you in advance,
+
+<true_name> Monica
+ </true_name> x57227

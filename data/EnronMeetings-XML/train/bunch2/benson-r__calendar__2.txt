@@ -1,0 +1,22 @@
+Message-ID: <21214616.1072120047705.JavaMail.evans@thyme>
+Date: Fri, 25 Jan 2002 08:18:02 -0800 (PST)
+From: corry.bentley@enron.com
+To: corry.bentley@enron.com, steve.nat@enron.com, duong.luu@enron.com, 
+	w..white@enron.com, casey.evans@enron.com, lloyd.will@enron.com, 
+	j..sturm@enron.com, arun.balasundaram@enron.com, 
+	david.poston@enron.com
+Subject: Trading Application
+Cc: debra.bailey@enron.com, rika.imai@enron.com, dana.davis@enron.com, 
+	robert.benson@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: debra.bailey@enron.com, rika.imai@enron.com, dana.davis@enron.com, 
+	robert.benson@enron.com
+
+
+We will meet to discuss a system for the Power Traders to provide real-time pricing, curve shift, positions, etc. as discussed last year.
+
+Thanks,
+<true_name> Corry Bentley
+ </true_name> 3-0421

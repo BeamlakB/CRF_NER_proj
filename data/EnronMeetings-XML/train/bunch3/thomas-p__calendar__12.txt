@@ -1,0 +1,37 @@
+Message-ID: <16868421.1072121615137.JavaMail.evans@thyme>
+Date: Wed, 25 Jul 2001 07:28:48 -0700 (PDT)
+From: rika.imai@enron.com
+To: rika.imai@enron.com, lloyd.will@enron.com, kelly.holman@enron.com, 
+	michael.roan@enron.com, vikas.dwivedi@enron.com, 
+	martin.lin@enron.com, lance.cunningham@enron.com, 
+	moises.benchluch@enron.com, preston.ochsner@enron.com, 
+	john.grace@enron.com, anna.santucci@enron.com, jaime.gualy@enron.com, 
+	jubran.whalan@enron.com, cory.willis@enron.com, 
+	andrew.kandolha@enron.com, jeffrey.wilson@enron.com, 
+	hicham.benjelloun@enron.com, kevin.cline@enron.com, 
+	steve.gim@enron.com, jason.kaniss@enron.com, grace.kim@enron.com, 
+	peter.makkai@enron.com, seung-taek.oh@enron.com, 
+	paul.schiavone@enron.com, gulay.soykok@enron.com, 
+	d..thomas@enron.com, randy.katz@enron.com, iris.mack@enron.com, 
+	joseph.wagner@enron.com, jeff.wolfe@enron.com, 
+	benjamin.woods@enron.com
+Subject: Fundamentals Meeting
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+MEETING ROOM : eb30c2
+
+
+1. Weather Update
+
+2.  Technical Analysis Update
+
+3. Oil 101 - <true_name> Vikas Dwivedi    </true_name> (3:00 - 4:30)
+"Env"
+	
+		
+		
+Following Week
+
+Aug 7 - Transmission 101 - <true_name> Lance Cunningham  </true_name> & <true_name> Martin Lin </true_name> 

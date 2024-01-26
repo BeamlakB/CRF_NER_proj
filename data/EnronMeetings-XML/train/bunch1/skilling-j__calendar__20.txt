@@ -1,0 +1,10 @@
+Message-ID: <23526638.1072132234912.JavaMail.evans@thyme>
+Date: Mon, 7 May 2001 10:58:00 -0700 (PDT)
+From: jennifer.burns@enron.com
+Subject: JS - Louisville
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+CO 4172  Departs IAH at 3:35PM
+Arrives Louisville at 7:00PM

@@ -1,0 +1,12 @@
+Message-ID: <2652202.1072121125475.JavaMail.evans@thyme>
+Date: Wed, 6 Feb 2002 09:42:43 -0800 (PST)
+From: chris.wiebe@enron.com
+To: chris.wiebe@enron.com, richard.mckeel@enron.com, greg.hibbert@enron.com, 
+	richard.mckeel@enron.com, pavel.koulikov@enron.com, 
+	cooper.richey@enron.com
+Subject: IIS Meeting
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+As per email

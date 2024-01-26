@@ -1,0 +1,17 @@
+Message-ID: <15084089.1072119843272.JavaMail.evans@thyme>
+Date: Wed, 15 Aug 2001 13:23:54 -0700 (PDT)
+From: d..hogan@enron.com
+To: d..hogan@enron.com, jeremy.wong@enron.com, r..brackett@enron.com, 
+	kam.keiser@enron.com, norman.lee@enron.com, wayne.vinson@enron.com, 
+	greg.couch@enron.com, todd.hall@enron.com
+Subject: Risk Trac/Source System Integration
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+On behalf of <true_name> Greg Couch </true_name> , please accept this invite to attend a meeting regarding Risk Trac/Source System Integration.  Each of you have been asked to participate (or provide a participant) in the task force to identify problems with data movement  from our "source systems" to Risk Trac. <true_name> Greg  </true_name> has been given the responsibility of leading the task force. 
+
+If you have any questions or concerns, please contact <true_name> Greg Couch  </true_name> at x36584.
+
+
+Thank you.

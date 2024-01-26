@@ -1,0 +1,14 @@
+Message-ID:  26434727.1072121654961.JavaMail.evans@thyme
+Date: Fri, 27 Jul 2001 14:22:26 -0700 (PDT)
+From: heather.choate@enron.com
+To: heather.choate@enron.com, shona.wilson@enron.com, pamela.sonnier@enron.com, 
+	chris.abel@enron.com, a..allen@enron.com, w..white@enron.com, 
+	martha.stevens@enron.com, sonia.hennessy@enron.com
+Subject: Moves Meeting
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+Please plan to attend this meeting to discuss our upcoming move plans for Risk Control and Power.
+		
+Thank you.

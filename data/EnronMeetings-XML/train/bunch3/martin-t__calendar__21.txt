@@ -1,0 +1,16 @@
+Message-ID: <11503011.1072120810142.JavaMail.evans@thyme>
+Date: Tue, 21 Aug 2001 12:56:15 -0700 (PDT)
+From: laura.vuittonet@enron.com
+Subject: EOL Required Planning Mtg
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+Attendees:
+<true_name> John Arnold
+ </true_name> <true_name> Scott Neal
+ </true_name> Hunter Shively
+Mike Grigsby
+Geoff Storey
+<true_name> Brad Richter
+ </true_name> <true_name> Jay Webb </true_name> 

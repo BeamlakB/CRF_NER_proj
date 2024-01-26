@@ -1,0 +1,27 @@
+Message-ID: <2714178.1072120905153.JavaMail.evans@thyme>
+Date: Thu, 23 Aug 2001 12:30:26 -0700 (PDT)
+From: keith.considine@enron.com
+To: keith.considine@enron.com
+Subject: Updated: Tomorrow's Stress/Scenario Meeting - REVISED LOCATION -
+ EB2849
+Cc: tom.victorio@enron.com, keith.considine@enron.com, j..hanson@enron.com, 
+	errol.mclaughlin@enron.com, al.miralles@enron.com, 
+	james.new@enron.com, paul.radous@enron.com, kathy.reeves@enron.com, 
+	w..white@enron.com, shona.wilson@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: tom.victorio@enron.com, keith.considine@enron.com, j..hanson@enron.com, 
+	errol.mclaughlin@enron.com, al.miralles@enron.com, 
+	james.new@enron.com, paul.radous@enron.com, kathy.reeves@enron.com, 
+	w..white@enron.com, shona.wilson@enron.com
+
+All-
+
+In lieu of tomorrow's standard task force meeting, RAC will be demonstrating Stress VaR capabilities on certain tests scripts created by the EIM's Paper group.  You are invited to attend this demonstration in <true_name> Naveen Andrews </true_name> ' office - EB2849.
+
+Additionally, at the suggestion of the group, we're proposing that the standing meeting time be changed to Wednesday's from 2-3pm (vs. the existing Friday 1-2pm).  Let me know if this fits your calendars.
+
+Regards
+
+<true_name> Keith </true_name> 

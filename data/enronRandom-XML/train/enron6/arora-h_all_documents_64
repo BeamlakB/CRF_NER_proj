@@ -1,0 +1,38 @@
+Message-ID: <13097270.1072127979090.JavaMail.evans@thyme>
+Date: Tue, 20 Feb 2001 01:29:00 -0800 (PST)
+From: barbara.lewis@enron.com
+To: harry.arora@enron.com, jeff.bartlett@enron.com, vanessa.carranza@enron.com, 
+	kristi.demaiolo@enron.com, donald.herrick@enron.com, 
+	barbara.lewis@enron.com, ross.mesquita@enron.com, 
+	suresh.raghavan@enron.com, john.spitz@enron.com, 
+	tobias.munk@enron.com, zachary.streight@enron.com, 
+	jocelyn.gordon@enron.com, amy.lehnert@enron.com, 
+	renuka.bongu@enron.com, john.alvar@enron.com, 
+	sireesha.chillakuru@enron.com, ciby.mathew@enron.com, 
+	christopher.schweigart@enron.com, ping.zhang@enron.com, 
+	wenxia.zhang@enron.com, dan.harrell@enron.com, 
+	jason.stephens@enron.com, dwayne.peterson@enron.com
+Subject: Per Zachary Streight
+Mime-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_100530_19669861.1072127979070"
+
+------=_Part_100530_19669861.1072127979070
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+All,
+
+There has been some concern about the lack of clarity regarding what 
+functionality is ready for user acceptance testing in the staging 
+environment.  To attempt to solve this problem, we have come up with a simple 
+process that will enhance communication and will allow everyone on the team 
+to know what functionality is in staging waiting for user acceptance signoff 
+prior to a release to production.  Please read the attached one page document 
+that details the proposed process.  Let me know if you have any questions.
+
+Thanks,
+<true_name> Zach
+
+ 
+ </true_name> ------=_Part_100530_19669861.1072127979070--

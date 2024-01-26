@@ -1,0 +1,19 @@
+Message-ID:  27785881.1072121654985.JavaMail.evans@thyme
+Date: Mon, 23 Jul 2001 08:20:42 -0700 (PDT)
+From: angela.morris@enron.com
+To: angela.morris@enron.com, w..white@enron.com, philip.siewert@enron.com
+Subject: Updated: Power Tolling
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<true_name> Stacey:
+
+ </true_name> I received your name from <true_name> David Oliver  </true_name> in London, who mentioned that you may be able to answer questions for me regarding how we handle tolling for power in relation to order handling.    I am a business analyst working with EIM on the Logistics project.
+
+I would like to ask some questions on this to understand how my team might relate it to the steel industry for EIM.
+
+Let me know if this time will work for you.  If not, I can reschedule.
+
+Thanks,
+<true_name> Angela </true_name> 

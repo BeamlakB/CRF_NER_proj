@@ -1,0 +1,23 @@
+Message-ID:  17566564.1072121654123.JavaMail.evans@thyme
+Date: Thu, 13 Sep 2001 15:05:20 -0700 (PDT)
+From: debra.bailey@enron.com
+To: debra.bailey@enron.com, duong.luu@enron.com, w..white@enron.com, 
+	corry.bentley@enron.com, arun.balasundaram@enron.com, 
+	norman.lee@enron.com, steve.gim@enron.com, a..allen@enron.com, 
+	steve.nat@enron.com
+Subject: Other Commodities into Consolidated Position Manager - Scoping
+ Meeting
+Cc: rika.imai@enron.com, lloyd.will@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: rika.imai@enron.com, lloyd.will@enron.com
+
+Meeting Objective:
+
+We will scope new requirements for position manager to provide functionality for other commodities (gas, coal).  In addition, we will discuss the potential combining of CPM and Curve Manager functionalities.  Please let me know if you have further questions.
+
+Thank you. 
+
+<true_name> Debra
+X </true_name> 31657

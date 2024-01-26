@@ -1,0 +1,9 @@
+Message-ID: <28524762.1072121078486.JavaMail.evans@thyme>
+Date: Wed, 2 May 2001 01:17:42 -0700 (PDT)
+From: outlook-migration-team@enron.com
+Subject: EES PX BOOKOUT
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+DETERMINE HOW PX BOOKOUT WORKS AND IF WE CAN GO AHEAD WITH IT

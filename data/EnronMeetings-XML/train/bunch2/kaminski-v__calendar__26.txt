@@ -1,0 +1,18 @@
+Message-ID: <8695563.1072120459412.JavaMail.evans@thyme>
+Date: Wed, 30 May 2001 14:53:40 -0700 (PDT)
+From: frank.hayden@enron.com
+To: frank.hayden@enron.com, j.kaminski@enron.com, tanya.tamarchenko@enron.com, 
+	naveen.andrews@enron.com, winston.jia@enron.com, 
+	ganapathy.ramesh@enron.com, david.port@enron.com, 
+	vladimir.gorny@enron.com, r..brackett@enron.com
+Subject: Project X Mtg
+Cc: stephen.stock@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: stephen.stock@enron.com
+
+The purpose of the meeting is to get everyone's update on of project X and to finalize the inception document.
+
+Thank you,
+<true_name> AC Romero </true_name> 

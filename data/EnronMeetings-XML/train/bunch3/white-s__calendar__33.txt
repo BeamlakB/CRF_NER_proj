@@ -1,0 +1,17 @@
+Message-ID: <243912.1072121653547.JavaMail.evans@thyme>
+Date: Tue, 23 Oct 2001 13:05:56 -0700 (PDT)
+From: greg.couch@enron.com
+To: greg.couch@enron.com, c..gossett@enron.com, shona.wilson@enron.com, 
+	r..brackett@enron.com, w..white@enron.com, todd.hall@enron.com, 
+	tom.victorio@enron.com, nancy.hernandez@enron.com
+Subject: Project Greenlight status meeting
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+Project Greenlight Category : Source Feeds Processing
+Sub-Project Name : Completeness and Consistency of Information Feeds
+
+(refer to main Greenlight document for specific deliverables for this sub-project)
+
+Present preliminary results and discuss strategy for moving forward.

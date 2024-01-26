@@ -1,0 +1,11 @@
+Message-ID: <27597504.1072120188395.JavaMail.evans@thyme>
+Date: Wed, 15 Aug 2001 08:40:25 -0700 (PDT)
+From: colin.tonks@enron.com
+To: colin.tonks@enron.com, chris.germany@enron.com, david.woodstrom@enron.com, 
+	david.dronet@enron.com
+Subject: Interruptible Transport Discussion
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<true_name> Dave  </true_name> + <true_name> Dave </true_name> , <true_name> Chris German  </true_name> (East Desk) has a working knowledge of IT, and I hope to gain a better understanding of the data sources + how a decision is made to buy IT.

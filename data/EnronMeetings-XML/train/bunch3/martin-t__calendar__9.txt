@@ -1,0 +1,15 @@
+Message-ID: <15365862.1072120809706.JavaMail.evans@thyme>
+Date: Fri, 26 Oct 2001 08:44:34 -0700 (PDT)
+From: s..shively@enron.com
+To: s..shively@enron.com
+Subject: Mtg. regarding Index Postings
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+Attendees:	<true_name> Hunter Shively
+		 </true_name> John Lavorato
+		<true_name> John Arnold
+		 </true_name> Scott Neal
+		Tom Martin
+		Mike Grigsby

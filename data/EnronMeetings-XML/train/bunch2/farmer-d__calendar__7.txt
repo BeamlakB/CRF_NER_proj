@@ -1,0 +1,17 @@
+Message-ID: <4731416.1072120108212.JavaMail.evans@thyme>
+Date: Thu, 30 Aug 2001 10:12:40 -0700 (PDT)
+From: jd.buss@enron.com
+To: jd.buss@enron.com, brian.redmond@enron.com, j..farmer@enron.com, 
+	bryan.hull@enron.com, david.baumbach@enron.com, 
+	laura.vuittonet@enron.com, valter.stoiani@enron.com
+Subject: Updated: Discuss Weather Derivative Hedge for Burbank,CA
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+I have been talking with <true_name> Partho  </true_name> from the weather derivative group.  The premium from the first transaction that we discussed a couple weeks ago was prohibitive to doing the deal (ie, a $8.3 million cost for only a $12 million payout).  I wanted to see if we could sit down and talk about this again because the hedge may actually be appropriate, but we may need to further refine our assumptions (how many days we expect to be paid on, what is a realistic temperature, ect.)  in order to get a value that is realistic.  Let me know if this time works for you guys.
+
+<true_name> Laura </true_name> ,
+Could you please get a room for this meeting.
+Thanks,
+<true_name> JD </true_name> 

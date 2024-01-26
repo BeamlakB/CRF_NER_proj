@@ -1,0 +1,39 @@
+Message-ID: <12502515.1072121614993.JavaMail.evans@thyme>
+Date: Thu, 20 Sep 2001 08:59:22 -0700 (PDT)
+From: rika.imai@enron.com
+To: rika.imai@enron.com, casey.evans@enron.com, moises.benchluch@enron.com, 
+	hicham.benjelloun@enron.com, kevin.cline@enron.com, 
+	steve.gim@enron.com, gustavo.giron@enron.com, jaime.gualy@enron.com, 
+	daniel.jenkins@enron.com, jason.kaniss@enron.com, 
+	thomas.lowell@enron.com, iris.mack@enron.com, peter.makkai@enron.com, 
+	mauricio.marquez@enron.com, seung-taek.oh@enron.com, 
+	steve.pan@enron.com, anna.santucci@enron.com, 
+	paul.schiavone@enron.com, bryce.schneider@enron.com, 
+	gulay.soykok@enron.com, d..thomas@enron.com, joseph.wagner@enron.com, 
+	ryan.williams@enron.com, cory.willis@enron.com, 
+	anubhav.aggarwal@enron.com, lloyd.dickerson@enron.com, 
+	william.freije@enron.com, utku.gulmeden@enron.com, amie.ha@enron.com, 
+	sanjay.hemani@enron.com, heath.kendall@enron.com, 
+	carrie.larkworthy@enron.com, steven.luong@enron.com, 
+	ashish.mahajan@enron.com, castlen.moore@enron.com, 
+	preston.ochsner@enron.com, maxim.philippov@enron.com, 
+	michele.raque@enron.com, guy.sharfman@enron.com, 
+	marc.ulrich@enron.com, jubran.whalan@enron.com, 
+	julia.young@enron.com
+Subject: Fundamentals Meeting
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+
+1. Introduction to Risk and Tools with <true_name> Casey Evans
+
+ </true_name> 2.  AGA and Gas Burn Update  Comparison of Gas Fundamentals and Power Fundamentals Predictions 
+
+3.  API Updates - API 101 
+
+4.  E Services Update 
+
+5.  Nuke Update 
+
+6.  Economic Update with <true_name> Maureen Raymond </true_name> 

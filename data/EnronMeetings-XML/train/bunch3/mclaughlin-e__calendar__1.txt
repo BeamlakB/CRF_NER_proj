@@ -1,0 +1,50 @@
+Message-ID: <29076867.1072120904871.JavaMail.evans@thyme>
+Date: Wed, 6 Feb 2002 13:28:21 -0800 (PST)
+From: m..smith@enron.com
+To: m..smith@enron.com, sherry.anastas@enron.com, bridgette.anderson@enron.com, 
+	evelyn.aucoin@enron.com, natalie.baker@enron.com, 
+	bryce.baxter@enron.com, corry.bentley@enron.com, 
+	r..brackett@enron.com, a..campos@enron.com, sharen.cason@enron.com, 
+	andrea.dahlke@enron.com, l..denton@enron.com, 
+	susan.elledge@enron.com, clarissa.garcia@enron.com, 
+	d..hare@enron.com, kelley.huntley@enron.com, c..kenne@enron.com, 
+	l.palmer@enron.com, errol.mclaughlin@enron.com, 
+	kevin.meredith@enron.com, melissa.murphy@enron.com, 
+	donnie.myers@enron.com, russ.severson@enron.com, 
+	mechelle.stevens@enron.com, s..theriot@enron.com, 
+	d..winfree@enron.com, cynthia.clark@enron.com, 
+	jeff.johnson@enron.com, richard.mckeel@enron.com, 
+	ramesh.rao@enron.com, victor.lamadrid@enron.com, m.hall@enron.com, 
+	matt.pena@enron.com, sundar.chitradurga@enron.com
+Subject: PLEASE ATTEND - review/ agreement of test data for mock test on
+ Thursday 02/06
+Mime-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_14035_31581667.1072120904850"
+
+------=_Part_14035_31581667.1072120904850
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+Please attend a very important meeting to discuss/ review the mock test tomorrow, with regards to data setup, and user tests for the afternoon.  
+
+Agenda:
+* We need to ensure ETX can create a data subset based on what is setup in global counterparty & contracts.
+	- counterparties - U.S. and Canada
+	- pipelines - U.S. and Canada
+	- contracts
+* Test schedule for Thursday	
+* Any other issues.
+
+Location:  ECS 05990.
+Please forward to others that need to be in attendance.
+
+See attached for proposed list..
+
+ 
+
+Thanks,
+
+<true_name> Regan Smith
+ </true_name> Testing Integration coordinator of UBS downstream systems
+------=_Part_14035_31581667.1072120904850--

@@ -1,0 +1,25 @@
+Message-ID:  582747.1072121654382.JavaMail.evans@thyme
+Date: Fri, 31 Aug 2001 08:07:07 -0700 (PDT)
+From: debra.bailey@enron.com
+To: debra.bailey@enron.com, anthony.dayao@enron.com, lloyd.will@enron.com, 
+	steve.nat@enron.com, a..allen@enron.com, w..white@enron.com, 
+	corry.bentley@enron.com, kenny.ha@enron.com, neal.symms@enron.com, 
+	todd.busby@enron.com, david.poston@enron.com
+Subject: Accenture ERCOT Business Model and Systems Solution Workshop
+Mime-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_21618_7323034.1072121654361"
+
+------=_Part_21618_7323034.1072121654361
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+
+The objective of this meeting is to share the design and lessons learned in the ERCOT systems solution.  Emphasis will be placed on the Loadestar implementation.  In addition, the secondary objective will be to share with EES IT the end to end process to implement an EES deal in the ERCOT market.  
+
+Preliminary agenda is enclosed.
+
+Lunch will be provided.  
+ 
+<true_name> Debra  
+ </true_name> ------=_Part_21618_7323034.1072121654361--

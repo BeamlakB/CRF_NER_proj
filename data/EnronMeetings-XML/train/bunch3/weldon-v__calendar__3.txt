@@ -1,0 +1,10 @@
+Message-ID: <13106558.1072121631024.JavaMail.evans@thyme>
+Date: Tue, 19 Jun 2001 09:19:53 -0700 (PDT)
+From: eric.moon@enron.com
+To: eric.moon@enron.com, jay.reitmeyer@enron.com, charles.weldon@enron.com
+Subject: Meeting with <true_name> Charles  </true_name> & <true_name> Jay
+ </true_name> Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+Your meeting with <true_name> Eric Moon  </true_name> will be held in conf. room EB 3320.

@@ -1,0 +1,17 @@
+Message-ID: <5411558.1072119842782.JavaMail.evans@thyme>
+Date: Tue, 13 Nov 2001 12:04:11 -0800 (PST)
+From: monica.clay@enron.com
+To: monica.clay@enron.com, kam.keiser@enron.com
+Subject: Complete the requirements gathering for CGS
+Cc: karima.husain@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: karima.husain@enron.com
+
+This meeting is to review the email bullet points and determine what the interface will entail.  Our goal is to have a document for signature by the end of the week.
+
+Thank you,
+
+<true_name> Monica Clay
+ </true_name> x 57227

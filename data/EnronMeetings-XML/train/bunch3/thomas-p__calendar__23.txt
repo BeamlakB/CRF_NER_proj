@@ -1,0 +1,10 @@
+Message-ID: <12007250.1072121615420.JavaMail.evans@thyme>
+Date: Wed, 23 May 2001 17:18:38 -0700 (PDT)
+From: outlook-migration-team@enron.com
+Subject: Run <true_name> Juan </true_name> 's MC Model
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+Location
+Electric/ERCOT/<true_name> Juan Padron </true_name> /Models/Traderrpt.xls

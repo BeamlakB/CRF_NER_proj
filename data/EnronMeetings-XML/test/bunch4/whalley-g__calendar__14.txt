@@ -1,0 +1,9 @@
+Message-ID:  9404550.1072131931321.JavaMail.evans@thyme
+Date: Tue, 16 Oct 2001 08:05:33 -0700 (PDT)
+From: liz.taylor@enron.com
+Subject: Arrive Boston
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+Hotel:  Four Seasons Boston, 200 Boylston - Conf#93679640 (Tel. 617.338.4400)

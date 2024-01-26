@@ -1,0 +1,13 @@
+Message-ID: <1794552.1072120810561.JavaMail.evans@thyme>
+Date: Mon, 9 Apr 2001 18:45:07 -0700 (PDT)
+From: a..martin@enron.com
+To: david.baumbach@enron.com, j..farmer@enron.com, elsa.villarreal@enron.com, 
+	metz.carey@enron.com, greg.mcclendon@enron.com, eric.bass@enron.com, 
+	jim.schwieger@enron.com, edward.gottlob@enron.com, 
+	a..martin@enron.com
+Subject: PRC Meeting EB3270
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+Meeting to verbally go over the performance of the Texas Risk group

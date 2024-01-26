@@ -1,0 +1,12 @@
+Message-ID:  21624060.1072121653834.JavaMail.evans@thyme
+Date: Mon, 1 Oct 2001 11:02:36 -0700 (PDT)
+From: rick.buy@enron.com
+To: rick.buy@enron.com, s..bradford@enron.com, r..brackett@enron.com, 
+	mike.jordan@enron.com, shona.wilson@enron.com, c..gossett@enron.com, 
+	w..white@enron.com, todd.hall@enron.com, david.port@enron.com
+Subject: Canceled: Project Greenlight
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+This meeting is being canceled and will be rescheduled later.

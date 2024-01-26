@@ -1,0 +1,15 @@
+Message-ID:  5095611.1072121654778.JavaMail.evans@thyme
+Date: Mon, 13 Aug 2001 12:09:20 -0700 (PDT)
+From: sonia.hennessy@enron.com
+To: sonia.hennessy@enron.com, w..white@enron.com, tom.may@enron.com, 
+	jeffrey.miller@enron.com, kayne.coulter@enron.com, 
+	andrea.dahlke@enron.com, tim.carter@enron.com
+Subject: Canceled: Services Contract
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+Meeting is canceled.  I will send out another meeting notice once I have rescheduled it.  
+
+Thanks,
+<true_name> Sonia </true_name> 

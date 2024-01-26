@@ -1,0 +1,33 @@
+Message-ID: <25663554.1072120008724.JavaMail.evans@thyme>
+Date: Fri, 1 Feb 2002 07:46:29 -0800 (PST)
+From: debra.bailey@enron.com
+To: debra.bailey@enron.com, d..steffes@enron.com, lloyd.will@enron.com, 
+	don.baughman@enron.com, corry.bentley@enron.com, 
+	w..donovan@enron.com, bill.abler@enron.com, 
+	reagan.rorschach@enron.com, l..day@enron.com, jason.choate@enron.com, 
+	patrick.hanse@enron.com, dale.furrow@enron.com, 
+	larry.valderrama@enron.com, maria.valdes@enron.com, 
+	leslie.reeves@enron.com
+Subject: East Power UBS Start-Up Project - Coordination Meeting
+Cc: f..calger@enron.com
+Mime-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_2838_11203640.1072120008703"
+Bcc: f..calger@enron.com
+
+------=_Part_2838_11203640.1072120008703
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+We are ready to bring the East Power UBS_Start_Up group back together again to accomplish the following objectives:
+
+1) review the Start-Up Gantt Chart taking us from UBS Launch date (approx 2/11/02) through 60 days
+2) assign resources to the Gantt chart
+3) discuss common drive to store all start_up information
+4) discuss interaction with west power and gas projects
+5) review final actions  
+
+
+
+ 
+------=_Part_2838_11203640.1072120008703--

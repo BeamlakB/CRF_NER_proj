@@ -1,0 +1,13 @@
+Message-ID: <14196108.1072120459170.JavaMail.evans@thyme>
+Date: Tue, 14 Aug 2001 09:24:32 -0700 (PDT)
+From: craig.chaney@enron.com
+To: craig.chaney@enron.com, j.kaminski@enron.com, amitava.dhar@enron.com, 
+	vasant.shanbhogue@enron.com, brian.cruver@enron.com
+Subject: CreditManager Functionality
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+This meeting is to pickup where we left out on possible functionality of the Credit Manager product.
+
+<true_name> Craig </true_name> 

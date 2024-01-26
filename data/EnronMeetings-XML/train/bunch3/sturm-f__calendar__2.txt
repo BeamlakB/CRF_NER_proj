@@ -1,0 +1,46 @@
+Message-ID: <32657564.1072121267553.JavaMail.evans@thyme>
+Date: Thu, 31 Jan 2002 12:30:17 -0800 (PST)
+From: rika.imai@enron.com
+To: rika.imai@enron.com, j..sturm@enron.com, david.ryan@enron.com
+Subject: Updated: Fundamentals Meeting
+Mime-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_17606_18992230.1072121267533"
+
+------=_Part_17606_18992230.1072121267533
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+
+
+Agenda: 
+
+1. The Role of the Fundamentals Group (<true_name> Kevin Presto </true_name> ) 
+
+2. Review of Fundamental Reports and Projects
+
+3. Discussion on Traders Project Needs and Priority 
+
+4. Specific Project Discussion
+	-API & Oil Forecasts (<true_name> Gus Giron </true_name> )
+	-Short Term Model Template (<true_name> Gus Giron </true_name> )
+	-AGA & Gas Fundamentals (<true_name> Mauricio Marquez </true_name> )
+ 	-Weekly Historical Interchange  Template (<true_name> Mauricio Marquez  </true_name> )
+	-Congestions Template (<true_name> Martin Lin </true_name> ) 
+	-Price Sheet Updates  (<true_name> Gulay Soykok </true_name> ) 
+	-Long Term Model ( <true_name> Gus Giron  </true_name> & <true_name> Gulay Soykok </true_name> ) 
+
+5. Regional Analysts
+	-Communication with trading group
+
+6. Upcoming Fundamental Presentations to the Traders
+
+
+
+Please see attached information for a list of projects and responsibilities 
+
+
+ 
+
+ 	
+------=_Part_17606_18992230.1072121267533--

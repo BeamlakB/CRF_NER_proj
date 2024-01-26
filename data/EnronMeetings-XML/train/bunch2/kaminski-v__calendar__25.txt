@@ -1,0 +1,12 @@
+Message-ID: <14776286.1072120459388.JavaMail.evans@thyme>
+Date: Thu, 31 May 2001 12:46:48 -0700 (PDT)
+From: osman.sezgen@enron.com
+To: osman.sezgen@enron.com, ozzie.pagan@enron.com, j.kaminski@enron.com, 
+	pinnamaneni.krishnarao@enron.com
+Subject: EES-EAM / Research Group Meeting  @EB641
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+The objective of the meeting is to introduce Research Group to <true_name> Ozzie </true_name> . Give a summary of
+the existing EAM related research projects. Talk about long term support goals and strategy.

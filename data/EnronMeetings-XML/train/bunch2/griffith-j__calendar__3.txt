@@ -1,0 +1,11 @@
+Message-ID: <6383893.1072120257596.JavaMail.evans@thyme>
+Date: Mon, 9 Jul 2001 12:54:29 -0700 (PDT)
+From: sanjeev.gupta@enron.com
+To: sanjeev.gupta@enron.com, john.griffith@enron.com, oscar.rivera@enron.com, 
+	karima.husain@enron.com, jeremy.wong@enron.com, s..lim@enron.com
+Subject: Updated: Automate Option Grid
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+Discuss the possibility of Automating Option Grid.

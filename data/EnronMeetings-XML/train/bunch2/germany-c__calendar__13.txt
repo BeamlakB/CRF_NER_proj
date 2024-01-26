@@ -1,0 +1,17 @@
+Message-ID: <16954793.1072120188263.JavaMail.evans@thyme>
+Date: Tue, 2 Apr 2002 11:38:21 -0800 (PST)
+From: chris.germany@enron.com
+Subject: Enron Compression Services Compnay meeting.
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+Attendee's
+
+<true_name> Mark Knippa
+ </true_name> <true_name> Troy Denetsosie
+ </true_name> Lisa Koerselman
+<true_name> Jim Coffey Jr.
+ </true_name> <true_name> Barbara Gray
+ </true_name> <true_name> Dexter Peoples
+ </true_name> Beth Jenkins

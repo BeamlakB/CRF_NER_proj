@@ -1,0 +1,10 @@
+Message-ID: <21066981.1072120257573.JavaMail.evans@thyme>
+Date: Mon, 30 Jul 2001 07:59:02 -0700 (PDT)
+From: richard.coathup@enron.com
+To: richard.coathup@enron.com, brad.merrell@enron.com, john.griffith@enron.com
+Subject: Updated: LIM Issue
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+This meeting is to discuss some LIM issues that have arrived.  Our LIM respresentive will be attending this meeting to hear the concerns from our users.

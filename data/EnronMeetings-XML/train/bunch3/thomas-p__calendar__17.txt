@@ -1,0 +1,13 @@
+Message-ID: <20812806.1072121615275.JavaMail.evans@thyme>
+Date: Mon, 9 Jul 2001 14:26:20 -0700 (PDT)
+From: jim.cashion@enron.com
+To: jim.cashion@enron.com, m..grace@enron.com, f..campbell@enron.com, 
+	patrick.hanse@enron.com
+Subject: Updated: NYISO Meeting (Revision)
+Cc: d..thomas@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: d..thomas@enron.com
+
+Discuss the NYISO upload.

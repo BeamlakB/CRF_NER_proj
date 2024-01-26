@@ -1,0 +1,11 @@
+Message-ID: <1159181.1072120857400.JavaMail.evans@thyme>
+Date: Mon, 23 Jul 2001 07:36:55 -0700 (PDT)
+From: ecn2760.conf.@enron.com
+To: ecn2760.conf.@enron.com, carlos.alatorre@enron.com, kara.lauer@enron.com, 
+	larry.may@enron.com
+Subject: <true_name> Carlos Alatorre
+ </true_name> Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<true_name> Kevin Meredith  </true_name> had originally requested that this meeting be set up; however, he indicated this morning that he did not need to be in attendance due to a conflict in schedule.  The topic of discussion will be US Gas Straddles.  Please contact me if any questions or conflict with this meeting.

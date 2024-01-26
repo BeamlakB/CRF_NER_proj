@@ -1,0 +1,19 @@
+Message-ID: <8023092.1072119842690.JavaMail.evans@thyme>
+Date: Mon, 26 Nov 2001 11:39:48 -0800 (PST)
+From: monica.clay@enron.com
+To: monica.clay@enron.com, m..love@enron.com, d..winfree@enron.com, 
+	kam.keiser@enron.com, farid.mithani@enron.com, 
+	huei-ying.wang@enron.com, michael.swaim@enron.com, 
+	scott.palmer@enron.com
+Subject: Development Stage of CGS
+Cc: karima.husain@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: karima.husain@enron.com
+
+We are beginning the development stage of our Consolidated Gas System - Reporting project and we need to get more detailed information about the location of data that is being pulled in WeaponX presently.  The majority of the reports we have been able to locate in ERMS but there are a couple where the data has not been found.  We need to map the present location of the data to ensure all information will be in the new system.  We would also like to go through a calc (step-by-step) to ensure all necessary pieces will be included in the new system.
+
+We are requesting one representative from Risk Management be present to answer a few questions.  A data architect and a developer will be present to ask necessary questions to get off to a good start.  Please let me know who will be available from the Risk side.
+
+Thank you.

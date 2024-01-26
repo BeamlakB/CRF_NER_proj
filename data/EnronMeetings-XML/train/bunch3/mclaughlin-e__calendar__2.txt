@@ -1,0 +1,14 @@
+Message-ID: <8158349.1072120904894.JavaMail.evans@thyme>
+Date: Fri, 1 Feb 2002 06:57:41 -0800 (PST)
+From: s..theriot@enron.com
+To: s..theriot@enron.com, evelyn.aucoin@enron.com, bryce.baxter@enron.com, 
+	w..white@enron.com, errol.mclaughlin@enron.com, kam.keiser@enron.com, 
+	casey.evans@enron.com, russ.severson@enron.com, 
+	jayant.krishnaswamy@enron.com, israel.estrada@enron.com, 
+	anthony.campos@enron.com
+Subject: Meeting to discuss Rates and Rate Feeds
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+Please plan to attend a meeting today at 1:30 p.m. in ECS 5112 to discuss Rate Feeds for UBS.  We need to ensure that everyone will get the rate feeds that they expect to see in the various systems.  We need to make sure that there are no holes in the process!

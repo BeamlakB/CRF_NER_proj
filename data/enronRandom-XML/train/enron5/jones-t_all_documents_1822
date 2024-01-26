@@ -1,0 +1,80 @@
+Message-ID: <8337050.1072126599466.JavaMail.evans@thyme>
+Date: Mon, 22 May 2000 03:44:00 -0700 (PDT)
+From: tomas.valnek@enron.com
+To: bryan.seyfried@enron.com
+Subject: Re: Credit Trading - Approval Form
+Cc: william.bradford@enron.com, denis.o'connell@enron.com, paul.simons@enron.com, 
+	debbie.brackett@enron.com, mark.taylor@enron.com, 
+	rod.nelson@enron.com, edmund.cooper@enron.com, tana.jones@enron.com, 
+	ect.trading@enron.com
+Mime-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_82359_8223897.1072126599445"
+Bcc: william.bradford@enron.com, denis.o'connell@enron.com, paul.simons@enron.com, 
+	debbie.brackett@enron.com, mark.taylor@enron.com, 
+	rod.nelson@enron.com, edmund.cooper@enron.com, tana.jones@enron.com, 
+	ect.trading@enron.com
+
+------=_Part_82359_8223897.1072126599445
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+I agree that the current Word document approval form will not be very 
+practical once we scale up. Going forward, we could be looking at some kind 
+of database solution as implemented for EnronOnline.
+
+<true_name> TV
+
+
+
+
+
+ </true_name> <true_name> Bryan Seyfried
+ </true_name> 20/05/2000 13:09
+To: <true_name> Tomas Valnek </true_name> /LON/ECT@ECT
+cc: <true_name> William S Bradford </true_name> /HOU/ECT@ECT, <true_name> Denis O'Connell </true_name> /LON/ECT@ECT, <true_name> Paul 
+Simons </true_name> /LON/ECT@ECT, <true_name> Debbie R Brackett </true_name> /HOU/ECT@ECT, <true_name> Mark Taylor </true_name> /HOU/ECT@ECT, 
+<true_name> Rod Nelson </true_name> /HOU/ECT@ECT, <true_name> Edmund Cooper </true_name> /LON/ECT@ECT, <true_name> Tana Jones </true_name> /HOU/ECT@ECT, 
+ECT London Credit Trading 
+
+Subject: Re: Credit Trading - Approval Form  
+
+Although this makes a lot of sense, how are going to implement it?  We plan 
+to scale massively and I cannot imagine that this will be efficient enough to 
+facilitate the time frames and number of reference credits that we are 
+anticipating.  I think that we need to have a general policy that we can look 
+to instead of approving them on a one off basis.
+
+Let's discuss
+
+
+
+<true_name> Tomas Valnek
+ </true_name> 19/05/2000 11:42
+To: ECT London Credit Trading, <true_name> Denis O'Connell </true_name> /LON/ECT@ECT, <true_name> Tana 
+Jones </true_name> /HOU/ECT@ECT, <true_name> Mark Taylor </true_name> /HOU/ECT@ECT, <true_name> Paul Simons </true_name> /LON/ECT@ECT, <true_name> Edmund 
+Cooper </true_name> /LON/ECT@ECT, <true_name> William S Bradford </true_name> /HOU/ECT@ECT, <true_name> Debbie R 
+Brackett </true_name> /HOU/ECT@ECT, <true_name> Rod Nelson </true_name> /HOU/ECT@ECT
+cc:  
+
+Subject: Credit Trading - Approval Form
+
+Attached is an Approval Form that will have to be completed to request if we 
+want to trade with a new counterparty or on a new reference credit. I have 
+incorporated comments from Origination, Credit and Legal. But should you have 
+any further comments please let me know ASAP, as I plan to introduce this 
+form by the middle of next week. (Note that there will be two forms, one for 
+bankruptcy swaps and one for other credit derivatives.)
+
+Regards
+
+<true_name> Tomas
+
+
+
+
+
+
+
+
+ </true_name> ------=_Part_82359_8223897.1072126599445--

@@ -1,0 +1,13 @@
+Message-ID: <26933940.1072121653262.JavaMail.evans@thyme>
+Date: Wed, 14 Nov 2001 09:25:46 -0800 (PST)
+From: ben.thomason@enron.com
+To: ben.thomason@enron.com, doug.mcdowell@enron.com, paul.burkhart@enron.com, 
+	jaime.araoz@enron.com, w..white@enron.com
+Subject: Meeting to discuss ENA Trading
+Cc: w..brown@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: w..brown@enron.com
+
+<true_name> Stacey White  </true_name> is going to meet with us in the new building to discuss ENA power trading

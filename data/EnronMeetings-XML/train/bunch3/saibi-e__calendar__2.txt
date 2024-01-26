@@ -1,0 +1,38 @@
+Message-ID: <28329369.1072121150803.JavaMail.evans@thyme>
+Date: Mon, 11 Jun 2001 14:55:36 -0700 (PDT)
+From: rika.imai@enron.com
+To: rika.imai@enron.com, michael.roan@enron.com, andy.pace@enron.com, 
+	david.ryan@enron.com, todd.decook@enron.com, lloyd.will@enron.com, 
+	michael.finger@enron.com, john.grace@enron.com, 
+	andrew.kandolha@enron.com, randy.katz@enron.com, 
+	jeff.wolfe@enron.com, benjamin.woods@enron.com, 
+	hicham.benjelloun@enron.com, kevin.cline@enron.com, 
+	steve.gim@enron.com, jason.kaniss@enron.com, grace.kim@enron.com, 
+	peter.makkai@enron.com, seung-taek.oh@enron.com, 
+	eric.saibi@enron.com, anna.santucci@enron.com, 
+	paul.schiavone@enron.com, gulay.soykok@enron.com, 
+	d..thomas@enron.com
+Subject: Fundamentals Meeting
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+Presentation:
+
+1. Weather Update
+
+2. Technical Analysis Update
+
+3. Load Forecast Update
+
+4. <true_name> Mike Roan  </true_name> RTO/ISO 
+
+5. Emissions/Outage  Update
+
+6. New Gen Update
+
+
+
+Following Week:
+
+June 19th - <true_name> Willis Phillip  </true_name> Pricing Model for the Northeast

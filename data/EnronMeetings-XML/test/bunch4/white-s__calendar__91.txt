@@ -1,0 +1,26 @@
+Message-ID:  5634689.1072121654915.JavaMail.evans@thyme
+Date: Thu, 2 Aug 2001 13:32:47 -0700 (PDT)
+From: duong.luu@enron.com
+To: duong.luu@enron.com, w..white@enron.com, corry.bentley@enron.com, 
+	lloyd.will@enron.com, l..day@enron.com, a..allen@enron.com, 
+	steve.nat@enron.com
+Subject: Consolidated Position Manager - Demo
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+
+Features included in the new Consolidated Position Manager
+
+Three different ways of creating a desired criteria Wizard/Intermediate/Advanced
+To save created criteria as a favorite
+Import and Export one or all favorites
+Changing colors for the different views
+Custom refresh intervals
+Automatic fail over to the database when server is down for continued data
+Full Help integration
+Real-time data through caching server
+Highly customizable views through grouping and sorting
+Able to quickly drill down on views Daily -  Hourly -  Detail
+Exporting data into excel
+Printing data

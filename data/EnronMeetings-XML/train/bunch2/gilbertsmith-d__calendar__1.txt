@@ -1,0 +1,57 @@
+Message-ID: <16162515.1072120225667.JavaMail.evans@thyme>
+Date: Wed, 30 Jan 2002 13:03:43 -0800 (PST)
+From: rika.imai@enron.com
+To: robert.johnston@enron.com, kevin.cline@enron.com, gustavo.giron@enron.com, 
+	martin.lin@enron.com, mauricio.marquez@enron.com, 
+	gulay.soykok@enron.com, ryan.williams@enron.com, 
+	harry.arora@enron.com, robert.benson@enron.com, dana.davis@enron.com, 
+	doug.gilbert-smith@enron.com, m..presto@enron.com, 
+	j..sturm@enron.com, lloyd.will@enron.com, diana.allen@enron.com, 
+	ted.ballinger@enron.com, mark.symms@enron.com, rika.imai@enron.com
+Subject: Fundamentals Meeting
+Mime-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_4803_1434416.1072120225646"
+
+------=_Part_4803_1434416.1072120225646
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+When: Friday, February 01, 2002 10:00 AM-11:30 AM (GMT-06:00) Central Time (US & Canada).
+Where: ECS5990
+
+*~*~*~*~*~*~*~*~*~*
+
+
+
+Agenda: 
+
+1. The Role of the Fundamentals Group (<true_name> Kevin Presto </true_name> ) 
+
+2. Review of Fundamental Reports and Projects
+
+3. Discussion on Traders Project Needs and Priority 
+
+4. Specific Project Discussion
+	-API & Oil Forecasts (<true_name> Gus Giron </true_name> )
+	-Short Term Model Template (<true_name> Gus Giron </true_name> )
+	-AGA & Gas Fundamentals (<true_name> Mauricio Marquez </true_name> )
+ 	-Weekly Historical Interchange  Template (<true_name> Mauricio Marquez  </true_name> )
+	-Congestions Template (<true_name> Martin Lin </true_name> ) 
+	-Price Sheet Updates  (<true_name> Gulay Soykok </true_name> ) 
+	-Long Term Model ( <true_name> Gus Giron  </true_name> & <true_name> Gulay Soykok </true_name> ) 
+
+5. Regional Analysts
+	-Communication with trading group
+
+6. Upcoming Fundamental Presentations to the Traders
+
+
+
+Please see attached information for a list of projects and responsibilities 
+
+
+ <<EAST POWER FUNDAMENTALS.doc>> 
+
+ 	
+------=_Part_4803_1434416.1072120225646--

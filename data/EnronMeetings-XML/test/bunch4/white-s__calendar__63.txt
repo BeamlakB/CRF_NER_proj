@@ -1,0 +1,41 @@
+Message-ID:  30388023.1072121654265.JavaMail.evans@thyme
+Date: Wed, 12 Sep 2001 09:27:31 -0700 (PDT)
+From: shona.wilson@enron.com
+To: shona.wilson@enron.com, sally.beck@enron.com, a..price@enron.com, 
+	m.hall@enron.com, kevin.sweeney@enron.com, barry.pearce@enron.com, 
+	tom.victorio@enron.com, w..white@enron.com, c..gossett@enron.com, 
+	sam.leuschen@enron.com, todd.hall@enron.com, gary.stadler@enron.com, 
+	scott.mills@enron.com, heather.choate@enron.com, 
+	chantelle.villanueva@enron.com, blanca.carrizales@enron.com, 
+	braedi.craig@enron.com, d..hogan@enron.com, kim.perkins@enron.com, 
+	christina.valdez@enron.com, fergus.trenholme@enron.com, 
+	brian.gillis@enron.com, beth.apollo@enron.com
+Subject: Updated: Curve validation - rescheduled meeting
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+I've checked your calendars and this time looks good for most of you.
+
+Please let me know if you can attend.  We don't have a room scheduled yet, we'll let you know as soon as we get one.
+
+Best regards
+
+_____________________________________________________________________________________________________________________
+
+As a follow up to <true_name> Sally' </true_name> s staff meeting today, I was asked to set up a meeting for <true_name> Sally' </true_name> s direct reports + the curve validation task force to discuss roles and responsibilities around curve validation.  I've checked your calendars and this is the only time all of you are available.
+
+As a background for those of you not on the task force,
+
+To date, the task force has concentrated on:
+-  putting business requirements around the tools needed perform the curve vals
+-  determining a methodology for curve validation
+- determining what should be scoped in and out of curve vals
+
+What is still left to resolve and/or has not been touched on is:
+- who should be responsible for performing the different facets of the validations
+- how active RAC's role should be in the process
+- a validation of benchmark conversion factors
+- a validation of correlation factors
+
+Look forward to seeing you there.

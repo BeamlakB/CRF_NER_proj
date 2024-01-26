@@ -1,0 +1,22 @@
+Message-ID: <11351692.1072120029382.JavaMail.evans@thyme>
+Date: Fri, 17 Aug 2001 06:22:05 -0700 (PDT)
+From: stephen.stock@enron.com
+To: stephen.stock@enron.com, beth.apollo@enron.com, sally.beck@enron.com, 
+	richard.burchfield@enron.com, todd.busby@enron.com, 
+	hal.elrod@enron.com, m.hall@enron.com, jeff.johnson@enron.com, 
+	a..price@enron.com, ramesh.rao@enron.com, kevin.sweeney@enron.com, 
+	joe.wong@enron.com, j..yanowski@enron.com
+Subject: Updated: IT Update w/<true_name> Steve Stock  </true_name> (with Lunch)
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+This will be the first of a regular series of IT updates targeted specifically for Energy Operations.
+
+As this is the first meeting, we will be presenting a consolidated list of projects, and each of <true_name> Beth Perlman </true_name> 's directs will be invited to discuss their projects in more detail, and then we'll leave some time for discussion, and some feedback on the format of the meeting.
+
+I'll arrange for lunch.
+
+regards
+
+<true_name> Steve </true_name> 

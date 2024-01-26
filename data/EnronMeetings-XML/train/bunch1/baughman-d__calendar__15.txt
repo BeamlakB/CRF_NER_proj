@@ -1,0 +1,31 @@
+Message-ID: <7527606.1072120009106.JavaMail.evans@thyme>
+Date: Mon, 1 Oct 2001 08:31:07 -0700 (PDT)
+From: rika.imai@enron.com
+To: rika.imai@enron.com, don.baughman@enron.com, steve.gim@enron.com, 
+	lloyd.will@enron.com, matt.lorenz@enron.com, 
+	juan.hernandez@enron.com, madhup.kumar@enron.com
+Subject: Updated: <true_name> Richard Heidorn  </true_name> - Traders News Energy
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+Discussion of the validity of the information and discussion of the methodology of obtaining the data. 
+_______________________________________________________
+
+Hourly Index started in July 2000 for 16 hours On Peak Hours 
+
+Ercot
+Cinergy
+Northern Ecar
+Serc
+Entergy/Spp
+Main/Comed
+
+
+Provides : High, Lows, Weighted Average and Volume
+
+Starting Mid September 2001 started Off-Peak Information 
+
+Publishes information on their website - html and excel
+
+Information is published the following morning by 7:30- 8:00 a.m.

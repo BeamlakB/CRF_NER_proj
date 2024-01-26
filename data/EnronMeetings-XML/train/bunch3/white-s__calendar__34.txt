@@ -1,0 +1,14 @@
+Message-ID: <5790382.1072121653570.JavaMail.evans@thyme>
+Date: Tue, 23 Oct 2001 11:40:49 -0700 (PDT)
+From: sonia.hennessy@enron.com
+To: sonia.hennessy@enron.com, tim.carter@enron.com, tom.chapman@enron.com, 
+	hai.chen@enron.com, andrea.dahlke@enron.com, 
+	israel.estrada@enron.com, casey.evans@enron.com, 
+	warrick.franklin@enron.com, paul.lewis@enron.com, 
+	michael.mattox@enron.com, w..white@enron.com
+Subject: Staff Meeting
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+Lunch will be provided.

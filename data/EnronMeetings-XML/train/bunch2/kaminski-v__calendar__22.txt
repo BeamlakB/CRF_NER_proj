@@ -1,0 +1,13 @@
+Message-ID: <4321717.1072120459315.JavaMail.evans@thyme>
+Date: Fri, 8 Jun 2001 08:00:06 -0700 (PDT)
+From: craig.chaney@enron.com
+To: craig.chaney@enron.com, jeff.kinneman@enron.com, bruce.harris@enron.com, 
+	j.kaminski@enron.com
+Subject: Updated: Enron Credit Pricing
+Cc: lola.weller@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: lola.weller@enron.com
+
+This meeting is to discuss the basis for credit pricing and to explore alternative ways to model the pricing.

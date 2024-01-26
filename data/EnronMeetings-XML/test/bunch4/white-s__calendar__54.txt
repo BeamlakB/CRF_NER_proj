@@ -1,0 +1,23 @@
+Message-ID:  17677257.1072121654051.JavaMail.evans@thyme
+Date: Mon, 17 Sep 2001 06:29:38 -0700 (PDT)
+From: tom.victorio@enron.com
+To: tom.victorio@enron.com, c..gossett@enron.com, r..brackett@enron.com, 
+	w..white@enron.com, shona.wilson@enron.com, todd.hall@enron.com, 
+	greg.couch@enron.com
+Subject: Updated: Project Green Light - new location
+Mime-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_21616_28528408.1072121654031"
+
+------=_Part_21616_28528408.1072121654031
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+Meeting to discuss projects identified to improve risk processes and systems a.k.a. Project Green Light.
+
+Please find attached a draft of the Vision document. I'd appreciate comments/inputs.
+Thanks.
+- <true_name> Tom
+
+ 
+ </true_name> ------=_Part_21616_28528408.1072121654031--

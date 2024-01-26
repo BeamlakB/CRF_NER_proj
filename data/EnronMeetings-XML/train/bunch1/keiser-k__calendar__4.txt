@@ -1,0 +1,24 @@
+Message-ID: <31166266.1072119842615.JavaMail.evans@thyme>
+Date: Mon, 28 Jan 2002 10:01:44 -0800 (PST)
+From: m..smith@enron.com
+To: m..smith@enron.com, jeff.johnson@enron.com, dave.nommensen@enron.com, 
+	david.poston@enron.com, ganapathy.ramesh@enron.com, 
+	d..winfree@enron.com, kam.keiser@enron.com, russ.severson@enron.com, 
+	bill.fortney@enron.com, jayant.krishnaswamy@enron.com, 
+	d..powell@enron.com
+Subject: Meeting to discuss what estate data needs to remain in Netco (ie
+ price curve data)..
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+Meeting to discuss what estate data needs to remain in Netco.
+
+1) Namely price curves, core data
+2) What data can we legally bring over to Netco?
+
+<true_name> David Poston </true_name> / <true_name> Ramesh Ganapathy </true_name> , please extend to other user base as needed.
+
+Please extend to other's I may have left off.  If this does not apply to your area, you don't need to attend.
+
+<true_name> Regan </true_name> 

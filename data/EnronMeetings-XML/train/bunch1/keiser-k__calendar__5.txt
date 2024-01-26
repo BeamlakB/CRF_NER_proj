@@ -1,0 +1,17 @@
+Message-ID: <15500446.1072119842640.JavaMail.evans@thyme>
+Date: Wed, 16 Jan 2002 10:42:14 -0800 (PST)
+From: raj.thapar@enron.com
+To: raj.thapar@enron.com, kam.keiser@enron.com
+Subject: Information request from  E&Y
+Mime-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_1436_26755425.1072119842619"
+
+------=_Part_1436_26755425.1072119842619
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+ <<Info Request_Ene_Jan 11_021.xls>> 
+
+ 
+------=_Part_1436_26755425.1072119842619--

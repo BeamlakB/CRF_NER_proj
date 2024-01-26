@@ -1,0 +1,42 @@
+Message-ID: <11110649.1072121653595.JavaMail.evans@thyme>
+Date: Tue, 23 Oct 2001 11:23:55 -0700 (PDT)
+From: shona.wilson@enron.com
+To: shona.wilson@enron.com, m.hall@enron.com, c..gossett@enron.com, 
+	w..white@enron.com, barry.pearce@enron.com, al.miralles@enron.com, 
+	beth.apollo@enron.com, f..herod@enron.com, p..o'neil@enron.com, 
+	shelly.stubbs@enron.com, sheila.glover@enron.com, 
+	kevin.sweeney@enron.com, nancy.hernandez@enron.com, 
+	sheri.thomas@enron.com, sally.beck@enron.com, 
+	michelle.bruce@enron.com, scott.earnest@enron.com, 
+	chris.abel@enron.com, tom.victorio@enron.com, 
+	keith.considine@enron.com, mike.jordan@enron.com, 
+	james.new@enron.com, andrew.cornfield@enron.com, 
+	e..moscoso@enron.com, shelly.wood@enron.com, sam.leuschen@enron.com, 
+	j..hanson@enron.com, pamela.sonnier@enron.com, 
+	blanca.carrizales@enron.com, christina.valdez@enron.com, 
+	a..price@enron.com, chantelle.villanueva@enron.com, 
+	todd.hall@enron.com, peggy.hedstrom@enron.com, 
+	kristin.albrecht@enron.com, heather.choate@enron.com, 
+	g..connevey@enron.com, braedi.craig@enron.com, sue.foust@enron.com, 
+	debra.hammond@enron.com, sonia.hennessy@enron.com, 
+	christina.liscano@enron.com, scott.mills@enron.com, 
+	kim.perkins@enron.com, salisha.ramos@enron.com, 
+	leslie.reeves@enron.com, araceli.romero@enron.com, 
+	kelly.templeton@enron.com, tara.thistleton@enron.com, 
+	mary.vasquez@enron.com
+Subject: Updated: Operational Risk meeting - agenda
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+On the schedule for tomorrow:
+
+- models website functionality
+- distribution of curve validation requirements put together by the task force & discussion of the 9/30 validations
+- exception reporting around RisktRAC (we have put together a document identifying where breakdowns can occur after the officialization process)
+- status of Project Greenlight
+- Benchmark reconciliatoins - source system to RisktRAC and proposed benchmark query tool
+
+Your requirements
+Please let Pamela Sonnier know if you will be attending the meeting so she knows how many people to order lunch for.
+Calgary and London - Pam will coordinate phone line call ins for you.

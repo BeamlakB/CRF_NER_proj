@@ -1,0 +1,60 @@
+Message-ID: <31645613.1072121614896.JavaMail.evans@thyme>
+Date: Tue, 30 Oct 2001 09:00:26 -0800 (PST)
+From: rika.imai@enron.com
+To: rika.imai@enron.com, a..gomez@enron.com, lloyd.will@enron.com, 
+	kelly.holman@enron.com, moises.benchluch@enron.com, 
+	hicham.benjelloun@enron.com, kevin.cline@enron.com, 
+	dustin.collins@enron.com, steve.gim@enron.com, 
+	gustavo.giron@enron.com, daniel.jenkins@enron.com, 
+	jason.kaniss@enron.com, thomas.lowell@enron.com, 
+	peter.makkai@enron.com, mauricio.marquez@enron.com, 
+	seung-taek.oh@enron.com, steve.pan@enron.com, 
+	anna.santucci@enron.com, paul.schiavone@enron.com, 
+	bryce.schneider@enron.com, ryan.williams@enron.com, 
+	cory.willis@enron.com, anubhav.aggarwal@enron.com, 
+	lloyd.dickerson@enron.com, william.freije@enron.com, 
+	jaime.gualy@enron.com, utku.gulmeden@enron.com, amie.ha@enron.com, 
+	sanjay.hemani@enron.com, david.ingram@enron.com, 
+	heath.kendall@enron.com, carrie.larkworthy@enron.com, 
+	steven.luong@enron.com, iris.mack@enron.com, 
+	ashish.mahajan@enron.com, reagan.mathews@enron.com, 
+	castlen.moore@enron.com, preston.ochsner@enron.com, 
+	juan.padron@enron.com, willis.philip@enron.com, 
+	maxim.philippov@enron.com, michele.raque@enron.com, 
+	guy.sharfman@enron.com, gulay.soykok@enron.com, 
+	julia.sudduth@enron.com, d..thomas@enron.com, marc.ulrich@enron.com, 
+	joseph.wagner@enron.com
+Subject: Updated: Fundamentals Meeting
+Cc: sanjay.hemani@enron.com, julia.sudduth@enron.com, reagan.mathews@enron.com, 
+	steve.gim@enron.com, mauricio.marquez@enron.com, 
+	preston.ochsner@enron.com, moises.benchluch@enron.com, 
+	steve.pan@enron.com, seung-taek.oh@enron.com, 
+	gustavo.giron@enron.com, ryan.williams@enron.com, 
+	marc.ulrich@enron.com, david.ingram@enron.com, 
+	heath.kendall@enron.com, robert.gerry@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: sanjay.hemani@enron.com, julia.sudduth@enron.com, reagan.mathews@enron.com, 
+	steve.gim@enron.com, mauricio.marquez@enron.com, 
+	preston.ochsner@enron.com, moises.benchluch@enron.com, 
+	steve.pan@enron.com, seung-taek.oh@enron.com, 
+	gustavo.giron@enron.com, ryan.williams@enron.com, 
+	marc.ulrich@enron.com, david.ingram@enron.com, 
+	heath.kendall@enron.com, robert.gerry@enron.com
+
+PLEASE NOTE THE ROOM CHANGED 48C2
+
+
+
+1. Weather Update
+
+2.  Update:
+	AGA 
+	API 
+	Nuke 
+	Emissions 
+	Services 
+	Transmission 
+
+3. <true_name> Julie Gomez  </true_name> - State of The  Union for Gas

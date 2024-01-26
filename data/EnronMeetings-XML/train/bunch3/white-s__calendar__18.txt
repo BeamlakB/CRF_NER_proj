@@ -1,0 +1,27 @@
+Message-ID: <16263035.1072121653186.JavaMail.evans@thyme>
+Date: Thu, 3 Jan 2002 15:57:49 -0800 (PST)
+From: jeff.johnson@enron.com
+To: jeff.johnson@enron.com, leslie.reeves@enron.com, s..theriot@enron.com, 
+	bryce.baxter@enron.com, evelyn.aucoin@enron.com, 
+	aftab.saleem@enron.com, m..smith@enron.com, terry.sanvido@enron.com, 
+	iain.greig@enron.com, russ.severson@enron.com, tom.engel@enron.com, 
+	tara.sweitzer@enron.com, chris.schomer@enron.com, 
+	ramesh.rao@enron.com, c..gossett@enron.com, w..white@enron.com, 
+	r..brackett@enron.com, robert.superty@enron.com, 
+	sundar.chitradurga@enron.com
+Subject: Updated: Review Front Office Trading System Scenarios, Test Status
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+
+Agenda: 
+
+1) Review updated critical systems list / flow diagram
+2) Review transaction scenario summary
+3) Review global data documentation
+4) Review first cut TAGG/ERMS, Enpower, TDS data capture scenario for financial trading
+5) Define USER/IT SWAT teams for Monday and Tuesday to complete test scenarios. (We will need full time commitments from key users to work with us)
+6) Discuss next steps and workplan goals
+
+Thanks.

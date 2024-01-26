@@ -1,0 +1,39 @@
+Message-ID: <29980169.1072121615325.JavaMail.evans@thyme>
+Date: Mon, 18 Jun 2001 06:41:51 -0700 (PDT)
+From: rika.imai@enron.com
+To: rika.imai@enron.com, lloyd.will@enron.com, willis.philip@enron.com, 
+	mitch.robinson@enron.com, david.ryan@enron.com, 
+	todd.decook@enron.com, andy.pace@enron.com, salil.pradhan@enron.com, 
+	jaime.gualy@enron.com, jaime.gualy@enron.com, mark.symms@enron.com, 
+	ted.ballinger@enron.com, kirk.stewart@enron.com, 
+	madhup.kumar@enron.com, gerald.emesih@enron.com, 
+	eric.smith@enron.com, diana.allen@enron.com, 
+	ramanarao.tamma@enron.com, hicham.benjelloun@enron.com, 
+	kevin.cline@enron.com, steve.gim@enron.com, jason.kaniss@enron.com, 
+	grace.kim@enron.com, peter.makkai@enron.com, seung-taek.oh@enron.com, 
+	anna.santucci@enron.com, paul.schiavone@enron.com, 
+	gulay.soykok@enron.com, d..thomas@enron.com, cory.willis@enron.com, 
+	michael.finger@enron.com, john.grace@enron.com, 
+	andrew.kandolha@enron.com, randy.katz@enron.com, 
+	jeff.wolfe@enron.com, benjamin.woods@enron.com
+Subject: Fundamentals Meeting
+Cc: adam.siegel@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: adam.siegel@enron.com
+
+NOTE NEW LOCATION 30C1
+
+1. Weather Update
+
+2. <true_name> Willis Phillip  </true_name> Pricing Model for the Northeast (2:30 to 3:00)
+
+3. Technical Analysis Update
+
+4. <true_name> Mitch Robinson  </true_name> Power 101 (3:00 to 4:30) 
+
+
+Following Week:
+
+June 26th - Technical Analysis 101

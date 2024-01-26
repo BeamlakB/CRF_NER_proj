@@ -1,0 +1,16 @@
+Message-ID: <887419.1072121101510.JavaMail.evans@thyme>
+Date: Thu, 10 Jan 2002 13:31:30 -0800 (PST)
+From: david.forster@enron.com
+To: david.forster@enron.com, f..calger@enron.com, barry.tycholiz@enron.com, 
+	frank.vickers@enron.com, mitch.robinson@enron.com, 
+	mike.curry@enron.com, brian.redmond@enron.com, laura.luce@enron.com, 
+	dana.davis@enron.com, john.suarez@enron.com, 
+	doug.gilbert-smith@enron.com, m..presto@enron.com, 
+	larry.valderrama@enron.com, john.arnold@enron.com, 
+	fred.lagrasta@enron.com
+Subject: NetcoOnline and the Top 50 Customers
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+Meeting to discuss the planned NetcoOnline launch schedule and to coordinate customer contact for acquiring executed Password Applications (PA's), which are required for customers to transact online.

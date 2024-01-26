@@ -1,0 +1,15 @@
+Message-ID: <12450318.1072119842829.JavaMail.evans@thyme>
+Date: Mon, 5 Nov 2001 15:39:20 -0800 (PST)
+From: monica.clay@enron.com
+To: monica.clay@enron.com, kam.keiser@enron.com, joe.zou@enron.com
+Subject: Consolidated Gas System
+Cc: karima.husain@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: karima.husain@enron.com
+
+This meeting is to determine what types of reports will be needed and where the shortcomings are for the existing reporting system.  We would also like to find out what type of security will be needed.
+
+-<true_name> Monica
+ </true_name> -57227

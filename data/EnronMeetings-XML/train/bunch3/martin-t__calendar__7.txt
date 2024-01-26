@@ -1,0 +1,15 @@
+Message-ID: <14639748.1072120809661.JavaMail.evans@thyme>
+Date: Fri, 9 Nov 2001 07:30:33 -0800 (PST)
+From: pam.butler@enron.com
+To: pam.butler@enron.com
+Subject: Phantom Stock Payouts
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+Attendees:	<true_name> Pam Butler
+		 </true_name> <true_name> Renee Ratcliff
+		 </true_name> Larry Lewis
+		Tom Martin
+		Scott Neal
+		Phil Allen

@@ -1,0 +1,12 @@
+Message-ID: <16497362.1072120237986.JavaMail.evans@thyme>
+Date: Wed, 30 Jan 2002 12:12:42 -0800 (PST)
+From: keith.considine@enron.com
+To: keith.considine@enron.com, shona.wilson@enron.com, john.arnold@enron.com, 
+	c..gossett@enron.com, m..love@enron.com, c..giron@enron.com, 
+	kristin.albrecht@enron.com, ed.mcmichael@enron.com
+Subject: Gas Curves - Marks and Updates
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+Meeting to organize gas curve validations with PwC.

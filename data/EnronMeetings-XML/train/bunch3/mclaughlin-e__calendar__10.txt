@@ -1,0 +1,13 @@
+Message-ID: <25413529.1072120905106.JavaMail.evans@thyme>
+Date: Tue, 9 Oct 2001 07:20:21 -0700 (PDT)
+From: burton.mcintyre@enron.com
+To: burton.mcintyre@enron.com, errol.mclaughlin@enron.com, 
+	tom.victorio@enron.com, zakiyyah.mcclure@enron.com, 
+	kenneth.thibodeaux@enron.com, casey.evans@enron.com, 
+	e..kasemervisz@enron.com, stephen.perich@enron.com
+Subject: Risk Analytics
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+In this meeting we will discuss allocating Global Product positions on  the DPR.

@@ -1,0 +1,9 @@
+Message-ID: <731788.1072120458958.JavaMail.evans@thyme>
+Date: Fri, 21 Sep 2001 12:42:14 -0700 (PDT)
+From: shirley.crenshaw@enron.com
+Subject: EOL Data Mining
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<true_name> Greg Piper </true_name> , <true_name> Mark Pickering </true_name> , <true_name> Vince Kaminski </true_name> , <true_name> Brad Richter </true_name> , <true_name> Jay Webb </true_name> 

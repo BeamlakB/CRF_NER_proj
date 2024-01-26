@@ -1,0 +1,17 @@
+Message-ID: <32604680.1072121652870.JavaMail.evans@thyme>
+Date: Wed, 30 Jan 2002 14:36:17 -0800 (PST)
+From: rahil.jafry@enron.com
+To: rahil.jafry@enron.com, bob.hillier@enron.com, jennifer.denny@enron.com, 
+	tom.engel@enron.com, lisa.lees@enron.com, stephanie.sever@enron.com, 
+	r..brackett@enron.com, kevin.meredith@enron.com, 
+	david.port@enron.com, kal.shah@enron.com, griff.gray@enron.com, 
+	bob.shults@enron.com, l..carter@enron.com, david.forster@enron.com, 
+	w..white@enron.com, c..gossett@enron.com, peggy.hedstrom@enron.com
+Subject: Meet to discuss trading simulation on the re-launched platform
+Cc: jay.webb@enron.com, legal <.taylor@enron.com>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: jay.webb@enron.com, legal <.taylor@enron.com>
+
+Please note:  The simulation will is now planned for Thursday (02/07/02)

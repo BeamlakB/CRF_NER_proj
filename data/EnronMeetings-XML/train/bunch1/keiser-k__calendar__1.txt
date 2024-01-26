@@ -1,0 +1,42 @@
+Message-ID: <9962628.1072119842539.JavaMail.evans@thyme>
+Date: Wed, 6 Feb 2002 14:42:05 -0800 (PST)
+From: bob.shults@enron.com
+To: bob.shults@enron.com, bob.shults@enron.com, support.dl-eol@enron.com, 
+	r..brackett@enron.com, stephanie.mcginnis@enron.com, 
+	c..gossett@enron.com, w..white@enron.com, s..theriot@enron.com, 
+	vladimir.gorny@enron.com, frank.hayden@enron.com, 
+	c..koehler@enron.com, rahil.jafry@enron.com, 
+	corp <.carter@enron.com>, bob.shults@enron.com, 
+	support.dl-eol@enron.com, r..brackett@enron.com, 
+	stephanie.mcginnis@enron.com, c..gossett@enron.com, 
+	w..white@enron.com, s..theriot@enron.com, vladimir.gorny@enron.com, 
+	frank.hayden@enron.com, c..koehler@enron.com, rahil.jafry@enron.com, 
+	corp <.carter@enron.com>, tara.sweitzer@enron.com, 
+	fraisy.george@enron.com, d..hare@enron.com, tom.engel@enron.com, 
+	dianne.seib@enron.com, peggy.hedstrom@enron.com, 
+	kam.keiser@enron.com
+Subject: FW: ECS05075:  Update on February 7th Trading Simulation
+Mime-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_1435_10376173.1072119842518"
+
+------=_Part_1435_10376173.1072119842518
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+
+As a follow up to our meeting, attached is the list of 37 counterparties with their associated limits for simulation purposes.
+ 
+Regards,
+<true_name> Stephanie
+ </true_name> 3-9283
+ -----Original Appointment-----
+From: 	<true_name> Rosado, Jennifer    </true_name> On Behalf Of <true_name> Shults, Bob
+ </true_name> Sent:	Wednesday, February 06, 2002 8:52 AM
+To:	<true_name> Shults, Bob </true_name> ; DL-EOL eCommerce Support; <true_name> Brackett, Debbie R </true_name> .; <true_name> Mcginnis, Stephanie </true_name> ; <true_name> Gossett, Jeffrey C </true_name> .; <true_name> White, Stacey W. </true_name> ; <true_name> Theriot, Kim S </true_name> .; <true_name> Gorny, Vladimir </true_name> ; <true_name> Hayden, Frank </true_name> ; <true_name> Koehler, Anne C. </true_name> ; <true_name> Jafry, Rahil </true_name> ; <true_name> Carter, Carl  </true_name> (CORP)
+Cc:	<true_name> Forster, David </true_name> ; <true_name> O'Donnell  </true_name> - UBS, <true_name> Pat; Becker </true_name> , <true_name> Lorraine; Gray </true_name> , <true_name> Mary Griff </true_name> ; <true_name> Denny, Jennifer </true_name> ; <true_name> Engel, Tom </true_name> ; <true_name> Moore, Kathy M </true_name> .; <true_name> Meredith, Kevin </true_name> ; <true_name> Sweitzer, Tara </true_name> ; <true_name> Lees, Lisa
+ </true_name> Subject:	Updated: ECS05075:  Update on February 7th Trading Simulation
+When:	Wednesday, February 06, 2002 10:30 AM-11:30 AM (GMT-06:00) Central Time (US & Canada).
+Where:	ECS05075:  <true_name> Lorraine Becker  </true_name> will email location
+
+------=_Part_1435_10376173.1072119842518--

@@ -1,0 +1,11 @@
+Message-ID:  9373662.1072121654755.JavaMail.evans@thyme
+Date: Mon, 13 Aug 2001 07:58:04 -0700 (PDT)
+From: tom.victorio@enron.com
+To: tom.victorio@enron.com, e..moscoso@enron.com, w..white@enron.com, 
+	gary.stadler@enron.com, scott.mills@enron.com, todd.hall@enron.com
+Subject: Updated: Kick-off meeting for Risk Ops Training
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+Apologies for the short notice -- just hoping to put together an outline or table of contents for a training course on Risk Operations. Thanks.

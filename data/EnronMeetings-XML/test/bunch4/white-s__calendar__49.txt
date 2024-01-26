@@ -1,0 +1,26 @@
+Message-ID:  19504319.1072121653930.JavaMail.evans@thyme
+Date: Wed, 19 Sep 2001 12:46:19 -0700 (PDT)
+From: ramesh.rao@enron.com
+To: ramesh.rao@enron.com, l..hall@enron.com, stephen.stock@enron.com, 
+	steve.nat@enron.com, zhiyong.wei@enron.com, john.warner@enron.com, 
+	brian.ripley@enron.com, leslie.reeves@enron.com, w..white@enron.com, 
+	robert.superty@enron.com, c..gossett@enron.com, 
+	peggy.hedstrom@enron.com
+Subject: GROWTH IN GAS AND POWER
+Cc: heather.choate@enron.com, giselle.james@enron.com, sonia.hennessy@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: heather.choate@enron.com, giselle.james@enron.com, sonia.hennessy@enron.com
+
+A meeting is requested to:
+
+	1)  Understand growth in Gas & Power over the next 24/36 months
+
+	2)  Discuss strategies for IT to meet this growth
+
+	3)  Identify and address areas of inefficiency in the business side with IT Solutions
+
+Please plan to attend accordingly.
+
+Thanks

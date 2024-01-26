@@ -1,0 +1,10 @@
+Message-ID:  20773166.1072131933495.JavaMail.evans@thyme
+Date: Thu, 26 Jul 2001 08:44:07 -0700 (PDT)
+From: m..taylor@enron.com
+Subject: Janus - Analyst Visit
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+Janus Attendees:  <true_name> Matt Ankrum  </true_name> & <true_name> Andy Walker  </true_name> - Analysts; Portfolio Managers:  <true_name> David Corkins </true_name> , <true_name> Helen Hayes </true_name> , <true_name> Warren Lammert </true_name> ,
+<true_name> Kent Moore </true_name> , <true_name> Karen Reidy  </true_name> & <true_name> Blaine Rollins </true_name> 

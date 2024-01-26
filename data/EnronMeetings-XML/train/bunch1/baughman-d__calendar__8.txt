@@ -1,0 +1,14 @@
+Message-ID: <18744291.1072120008903.JavaMail.evans@thyme>
+Date: Thu, 1 Nov 2001 11:04:58 -0800 (PST)
+From: david.poston@enron.com
+To: david.poston@enron.com, lloyd.will@enron.com, debra.bailey@enron.com, 
+	don.baughman@enron.com, corry.bentley@enron.com, 
+	ramanarao.tamma@enron.com
+Subject: OATI - Web Trader Demo
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+This will be an interactive demonstration & product evaulation of OATI's new webTrader application.  We will contact <true_name> Ilia </true_name> , from OATI, to begin the demonstration.
+
+Thanks,  <true_name> Poston </true_name> 

@@ -1,0 +1,67 @@
+Message-ID: <20160069.1072121653138.JavaMail.evans@thyme>
+Date: Mon, 7 Jan 2002 09:31:09 -0800 (PST)
+From: terry.sanvido@enron.com
+To: terry.sanvido@enron.com, andrea.dahlke@enron.com, diane.anderson@enron.com, 
+	bob.bowen@enron.com, r..brackett@enron.com, 
+	sundar.chitradurga@enron.com, richard.elwood@enron.com, 
+	iain.greig@enron.com, d..hare@enron.com, frank.hayden@enron.com, 
+	joe.hunter@enron.com, tammy.jaquet@enron.com, jeff.johnson@enron.com, 
+	errol.mclaughlin@enron.com, torrey.moorer@enron.com, 
+	bernice.rodriguez@enron.com, aftab.saleem@enron.com, 
+	terry.sanvido@enron.com, m..smith@enron.com, tara.sweitzer@enron.com, 
+	ellen.wallumrod@enron.com, d..winfree@enron.com, 
+	clarissa.garcia@enron.com, marlene.hilliard@enron.com, 
+	r..price@enron.com, stacey.richardson@enron.com, l..schrab@enron.com, 
+	russ.severson@enron.com, patti.sullivan@enron.com, 
+	rita.wynne@enron.com, corry.bentley@enron.com, amy.clemons@enron.com, 
+	l..denton@enron.com, casey.evans@enron.com, ann.murphy@enron.com, 
+	rhonda.robinson@enron.com, mechelle.stevens@enron.com
+Subject: Updated: Integration Test Team Meeting
+Cc: leslie.reeves@enron.com, s..theriot@enron.com, bryce.baxter@enron.com, 
+	evelyn.aucoin@enron.com, tom.engel@enron.com, 
+	chris.schomer@enron.com, ramesh.rao@enron.com, c..gossett@enron.com, 
+	w..white@enron.com, robert.superty@enron.com, 
+	dave.nommensen@enron.com, todd.renaud@enron.com, 
+	mark.schmidt@enron.com, rita.wynne@enron.com, frank.hayden@enron.com, 
+	d..winfree@enron.com, iain.greig@enron.com, ann.murphy@enron.com, 
+	russ.severson@enron.com, tammy.jaquet@enron.com, 
+	patti.sullivan@enron.com, bernice.rodriguez@enron.com, 
+	bob.bowen@enron.com, clarissa.garcia@enron.com, 
+	richard.elwood@enron.com, tara.sweitzer@enron.com, 
+	andrea.dahlke@enron.com, torrey.moorer@enron.com, 
+	joe.hunter@enron.com
+Mime-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_21613_20442910.1072121653118"
+Bcc: leslie.reeves@enron.com, s..theriot@enron.com, bryce.baxter@enron.com, 
+	evelyn.aucoin@enron.com, tom.engel@enron.com, 
+	chris.schomer@enron.com, ramesh.rao@enron.com, c..gossett@enron.com, 
+	w..white@enron.com, robert.superty@enron.com, 
+	dave.nommensen@enron.com, todd.renaud@enron.com, 
+	mark.schmidt@enron.com, rita.wynne@enron.com, frank.hayden@enron.com, 
+	d..winfree@enron.com, iain.greig@enron.com, ann.murphy@enron.com, 
+	russ.severson@enron.com, tammy.jaquet@enron.com, 
+	patti.sullivan@enron.com, bernice.rodriguez@enron.com, 
+	bob.bowen@enron.com, clarissa.garcia@enron.com, 
+	richard.elwood@enron.com, tara.sweitzer@enron.com, 
+	andrea.dahlke@enron.com, torrey.moorer@enron.com, 
+	joe.hunter@enron.com
+
+------=_Part_21613_20442910.1072121653118
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+Agenda:
+
+1) Organize USER/IT SWAT teams
+2) Begin process of fleshing out test scripts
+
+
+Please review the attached spreadsheet for errors or omissions prior to meeting. If I have left anyone off the list, please let me know.
+
+Thank You,
+
+<true_name> Terry
+
+ 
+ </true_name> ------=_Part_21613_20442910.1072121653118--

@@ -1,0 +1,11 @@
+Message-ID:  10991220.1072121683760.JavaMail.evans@thyme 
+Date: Tue, 2 Oct 2001 10:16:42 -0700 (PDT)
+From: darren.cross@enron.com
+To: darren.cross@enron.com, scott.campbell@enron.com, kate.joslyn@enron.com, 
+	john.zufferli@enron.com
+Subject: Updated: EDCC/ECC Pricing Discussion
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+Would like to grab an hour to discuss different go-forward EDCC/ECC pricing scenarios.

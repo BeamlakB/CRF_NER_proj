@@ -1,0 +1,71 @@
+Message-ID: <9101862.1072133237389.JavaMail.evans@thyme>
+Date: Tue, 5 Jun 2001 04:23:00 -0700 (PDT)
+From: stacy.dickson@enron.com
+To: susan.elledge@enron.com
+Subject: FW: Product type approval needed (US Gas Phy Fwd Secondary Firm)
+Mime-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_154797_18797172.1072133237369"
+
+------=_Part_154797_18797172.1072133237369
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+Does this help?  I have approved this product.
+----- Forwarded by <true_name> Stacy E Dickson </true_name> /HOU/ECT on 06/05/2001 11:22 AM -----
+
+	<true_name> Chris Walker </true_name> /ENRON@enronXgate
+	06/04/2001 01:38 PM
+		 
+		 To: <true_name> Stacy E Dickson </true_name> /HOU/ECT@ECT
+		 cc: 
+		 Subject: FW: Product type approval needed (US Gas Phy Fwd Secondary Firm)
+
+<true_name> Stacy </true_name> ,
+
+Could you reply and copy <true_name> Mark Taylor  </true_name> with your approval of <true_name> Kevin Ruscitti </true_name> 's 
+new Secondary Firm product type.  <true_name> Mark  </true_name> will then make the appropriate 
+approval in Data Manager.
+
+Thanks,
+
+CW
+3-7533
+
+
+ -----Original Message-----
+From:  <true_name> Walker, Chris  
+ </true_name> Sent: Friday, June 01, 2001 3:42 PM
+To: <true_name> Blumenthal, Jeff </true_name> ; <true_name> Musch, Susan </true_name> ; <true_name> Hayden, Frank </true_name> ; <true_name> Taylor, Mark </true_name> ; <true_name> Dickson, 
+Stacy </true_name> ; <true_name> Moran, Tom </true_name> ; <true_name> Love, Phillip M. </true_name> ; <true_name> Hunter, Larry Joe
+ </true_name> Cc: <true_name> Lees, Lisa </true_name> ; <true_name> Sweitzer, Tara </true_name> ; <true_name> Jones, Tana </true_name> ; <true_name> Lambert, Karen </true_name> ; <true_name> Lombardi, Kelly </true_name> ; 
+<true_name> Sever, Stephanie </true_name> ; <true_name> Kenne, Dawn C. </true_name> ; <true_name> Moorer, Torrey </true_name> ; <true_name> Cass, Robert B. </true_name> ; <true_name> Meredith, 
+Kevin </true_name> ; <true_name> Lozano, Melba </true_name> ; <true_name> Alatorre, Carlos
+ </true_name> Subject: Product type approval needed (US Gas Phy Fwd Secondary Firm)
+
+Please approve the following product type in Data Manager after 11 A.M.
+
+US Gas Phy Fwd Secondary Firm
+
+
+
+
+
+STEPS FOR APPROVAL:
+
+click the  START button 
+select  PROGRAMS
+select  TEST APPLICATIONS
+select ENRONONLINE CLUSTER(PROD)
+ PROCEED WITH USUAL LOGIN/PASSWORD 
+click the Enron Online Production Cluster "START" button  
+select EnronOnLine (this is the EOL Datamanager)
+ PROCEED WITH EOL LOGIN/PASSWORD
+click on the "+" for EnronOnLine
+click on the "+" for Product Types
+click on the "+" for "Awaiting Approval" (OR  "Partially Approved")
+select the product requiring review as stated in e-mail above
+Right "mouse" click on "properties" to view product set-up 
+TO APPROVE:  Right mouse click on "Approved"
+
+------=_Part_154797_18797172.1072133237369--

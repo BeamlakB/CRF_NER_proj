@@ -1,0 +1,18 @@
+Message-ID: <16316245.1072121125577.JavaMail.evans@thyme>
+Date: Tue, 16 Oct 2001 09:29:03 -0700 (PDT)
+From: sebastien.garcia@enron.com
+To: sebastien.garcia@enron.com, cooper.richey@enron.com
+Subject: Scraping process Vs Volume Mgmt
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+
+Ground to cover:
+
+- Review of scraping process
+- Data flow
+- Identify possible source of data storage inconsistencies into Volume Mgmt database (<true_name> PETE </true_name> )
+
+Cheers,
+<true_name> Sebastien </true_name> 

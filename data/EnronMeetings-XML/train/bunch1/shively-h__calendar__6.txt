@@ -1,0 +1,16 @@
+Message-ID: <12655445.1072119978006.JavaMail.evans@thyme>
+Date: Thu, 29 Nov 2001 09:32:52 -0800 (PST)
+From: bob.shults@enron.com
+To: bob.shults@enron.com, john.arnold@enron.com, s..shively@enron.com, 
+	a..martin@enron.com, scott.neal@enron.com, k..allen@enron.com, 
+	m..presto@enron.com, tim.belden@enron.com, mike.cowan@enron.com, 
+	savita.puthigai@enron.com, brad.richter@enron.com, 
+	marc.eichmann@enron.com
+Subject: Canceled: Nymex Specialist Meeting
+Cc: lorraine.becker@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: lorraine.becker@enron.com
+
+We are currently negotiating with the NYMEX for a potential technology sale and specialist role.  Portland and Canada will be conference in.

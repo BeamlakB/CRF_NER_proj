@@ -1,0 +1,23 @@
+Message-ID:  12623244.1072121654146.JavaMail.evans@thyme
+Date: Thu, 13 Sep 2001 10:38:03 -0700 (PDT)
+From: debra.bailey@enron.com
+To: debra.bailey@enron.com, w..white@enron.com
+Subject: Review Tactical Requirements
+Mime-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_21617_29360629.1072121654125"
+
+------=_Part_21617_29360629.1072121654125
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<true_name> Stacey </true_name> ,
+
+I updated your list with inputs from <true_name> Casey  </true_name> and <true_name> Donny </true_name> .  I am ready to have you review the list with me.  I have enclosed the latest copy.  The requirements I would like to review with you are on Sheet 2 of the Excel Spreadsheet.  
+
+Thank you.  
+
+<true_name> Debra
+
+ 
+ </true_name> ------=_Part_21617_29360629.1072121654125--

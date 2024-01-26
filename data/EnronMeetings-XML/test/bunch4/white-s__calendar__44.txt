@@ -1,0 +1,27 @@
+Message-ID:  16635756.1072121653811.JavaMail.evans@thyme
+Date: Tue, 2 Oct 2001 14:10:04 -0700 (PDT)
+From: madhup.kumar@enron.com
+To: madhup.kumar@enron.com, anthony.dayao@enron.com, lloyd.will@enron.com, 
+	steve.nat@enron.com, neal.symms@enron.com, todd.busby@enron.com, 
+	debra.bailey@enron.com, corry.bentley@enron.com, w..white@enron.com, 
+	a..allen@enron.com
+Subject: Alstom ESCA, PJM presentation
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+Alstom ESCA and PJM representatives will give a presentation for providing solutions for PJM.
+
+Morning presentation will include following topics:
+
+1. Relationship between Alstom ESCA, PJM and Loadstar.
+2. Market Interface
+3. Scheduling
+4. VMS, Settlements
+
+Afternoon will have demonstration of LMP Training Simulator.
+
+I'll send a detail agenda after confirming with Alstom ESCA. 
+
+Thanks.
+<true_name> Madhup </true_name> 

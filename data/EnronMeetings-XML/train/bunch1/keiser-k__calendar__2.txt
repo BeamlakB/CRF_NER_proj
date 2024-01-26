@@ -1,0 +1,26 @@
+Message-ID: <5276870.1072119842568.JavaMail.evans@thyme>
+Date: Tue, 5 Feb 2002 11:39:37 -0800 (PST)
+From: andrew.champion@enron.com
+To: andrew.champion@enron.com, stephanie.mcginnis@enron.com, 
+	ganapathy.ramesh@enron.com, frank.hayden@enron.com, 
+	vladimir.gorny@enron.com, kam.keiser@enron.com, 
+	john.valdes@enron.com, casey.evans@enron.com, greg.whiting@enron.com, 
+	david.port@enron.com, r..brackett@enron.com
+Subject: Updated: RisktRAC: Managing Books and Portfolios
+Cc: todd.warwick@enron.com, wayne.vinson@enron.com, andrea.dahlke@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: todd.warwick@enron.com, wayne.vinson@enron.com, andrea.dahlke@enron.com
+
+NOTE:  This meeting has moved to 5075 (same floor, larger conference room).
+
+I'll have a sign on the door that points to the new room.  
+The conference room is to your right from the elevators, before the glass door.
+
+
+This meeting will focus on how books are created in RisktRAC and associated with RisktRAC's flexible portfolio reporting system to gather Value at Risk, P&L, and Open Positions.
+
+Aspects of automatic portfolio/book creation will also be covered.
+
+Please call myself (x57534) or <true_name> Stephanie McGinnis  </true_name> (39283) if you need more information, thanks.

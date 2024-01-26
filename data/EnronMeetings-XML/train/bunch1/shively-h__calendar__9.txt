@@ -1,0 +1,15 @@
+Message-ID: <24340699.1072119978075.JavaMail.evans@thyme>
+Date: Mon, 22 Oct 2001 12:36:43 -0700 (PDT)
+From: alexandra.villarreal@enron.com
+To: john.arnold@enron.com, scott.neal@enron.com, a..martin@enron.com, 
+	mike.grigsby@enron.com, f..keavey@enron.com
+Subject: Gas Daily Swaps/Electronic Index Postings
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+Attendees:	<true_name> Scott Neal
+		 </true_name> Tom Martin
+		<true_name> Mike Grigsby
+		 </true_name> John Arnold
+		<true_name> Pete Keavey </true_name> 

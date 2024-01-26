@@ -1,0 +1,38 @@
+Message-ID: <11625839.1072119842665.JavaMail.evans@thyme>
+Date: Mon, 7 Jan 2002 06:33:05 -0800 (PST)
+From: terry.sanvido@enron.com
+To: terry.sanvido@enron.com, kam.keiser@enron.com
+Subject: FW: Integration Test Team Meeting
+Mime-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_1437_32946204.1072119842644"
+
+------=_Part_1437_32946204.1072119842644
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+
+
+ -----Original Appointment-----
+From: 	<true_name> Sanvido, Terry  
+ </true_name> Sent:	Friday, January  4, 2002 6:30 PM
+To:	<true_name> Sanvido, Terry </true_name> ; <true_name> Anderson, Diane </true_name> ; <true_name> Bowen, Bob </true_name> ; <true_name> Brackett </true_name> , <true_name> Debbie R. </true_name> ; <true_name> Chitradurga, Sundar </true_name> ; <true_name> Elwood, Richard </true_name> ; <true_name> Greig, Iain </true_name> ; <true_name> Hare, Bill D </true_name> .; <true_name> Hayden, Frank </true_name> ; <true_name> Hunter, Larry Joe </true_name> ; <true_name> Jaquet, Tammy </true_name> ; <true_name> Johnson, Jeff </true_name> ; <true_name> McLaughlin Jr., Errol </true_name> ; <true_name> Moorer, Torrey </true_name> ; <true_name> Rodriguez, Bernice </true_name> ; <true_name> Saleem, Aftab </true_name> ; <true_name> Sanvido, Terry </true_name> ; <true_name> Smith, Regan M </true_name> .; <true_name> Sweitzer, Tara </true_name> ; <true_name> Wallumrod, Ellen </true_name> ; <true_name> Winfree, O'Neal D </true_name> .; <true_name> Garcia, Clarissa </true_name> ; <true_name> Hilliard, Marlene </true_name> ; <true_name> Price, Wade R </true_name> .; <true_name> Richardson, Stacey </true_name> ; <true_name> Schrab, Mark L </true_name> .; <true_name> Severson, Russ </true_name> ; <true_name> Sullivan, Patti </true_name> ; <true_name> Wynne, Rita </true_name> ; <true_name> Bentley, Corry </true_name> ; <true_name> Clemons, Amy </true_name> ; <true_name> Denton, Rhonda L </true_name> .; <true_name> Evans, Casey </true_name> ; <true_name> Murphy, Melissa Ann </true_name> ; <true_name> Robinson, Rhonda </true_name> ; <true_name> Stevens, Mechelle
+ </true_name> Cc:	<true_name> Reeves, Leslie </true_name> ; <true_name> Theriot, Kim S </true_name> .; <true_name> Baxter, Bryce </true_name> ; <true_name> Aucoin, Evelyn </true_name> ; <true_name> Engel, Tom </true_name> ; <true_name> Schomer, Chris </true_name> ; <true_name> Rao, Ramesh </true_name> ; <true_name> Gossett, Jeffrey C </true_name> .; <true_name> White, Stacey W </true_name> .; <true_name> Superty, Robert </true_name> ; <true_name> Nommensen, Dave </true_name> ; <true_name> Renaud, Todd </true_name> ; <true_name> Schmidt, Mark
+ </true_name> Subject:	Integration Test Team Meeting
+When:	Monday, January  7, 2002 1:00 PM-5:00 PM (GMT-06:00) Central Time (US & Canada).
+Where:	ECN 21C2
+
+Agenda:
+
+1) Organize USER/IT SWAT teams
+2) Begin process of fleshing out test scripts
+
+
+Please review the attached spreadsheet for errors or omissions prior to meeting. If I have left anyone off the list, please let me know.
+
+Thank You,
+
+<true_name> Terry
+
+ 
+ </true_name> ------=_Part_1437_32946204.1072119842644--

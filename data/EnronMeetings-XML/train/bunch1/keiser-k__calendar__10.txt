@@ -1,0 +1,24 @@
+Message-ID: <20991057.1072119842759.JavaMail.evans@thyme>
+Date: Wed, 14 Nov 2001 13:31:48 -0800 (PST)
+From: karima.husain@enron.com
+To: karima.husain@enron.com, c..gossett@enron.com, kam.keiser@enron.com, 
+	sanjesh.pathak@enron.com, m..love@enron.com, 
+	errol.mclaughlin@enron.com, dan.arellano@enron.com
+Subject: Updated: Demo of the new "ERMS-PC"
+Cc: zhiyong.wei@enron.com, s..lim@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: zhiyong.wei@enron.com, s..lim@enron.com
+
+All,
+
+The Gas Tactical team has worked on a brand new prototype of the PC-version of ERMS.  We would like to give you a brief demo of the new ERMS-PC and get your feedback.
+
+Room location will be:  EB 2601.
+
+Thanks & regards,
+
+<true_name> Karima Husain
+ </true_name> Project Manager, Gas Tactical
+(713) 345-7252

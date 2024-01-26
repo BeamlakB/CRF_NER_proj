@@ -1,0 +1,13 @@
+Message-ID: <27512078.1072121653308.JavaMail.evans@thyme>
+Date: Mon, 5 Nov 2001 08:37:27 -0800 (PST)
+From: m.hall@enron.com
+To: m.hall@enron.com, c..bland@enron.com, c..gossett@enron.com, 
+	robert.superty@enron.com, e..levingston@enron.com, 
+	brandee.jackson@enron.com, araceli.romero@enron.com, 
+	w..white@enron.com, sonia.hennessy@enron.com
+Subject: Analyst Review
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<true_name> Stacey White  </true_name> will attend via teleconference by calling, (713) 345-3642.

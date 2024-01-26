@@ -1,0 +1,48 @@
+Message-ID: <15426140.1072121653333.JavaMail.evans@thyme>
+Date: Tue, 30 Oct 2001 12:19:13 -0800 (PST)
+From: debra.bailey@enron.com
+To: debra.bailey@enron.com, lloyd.will@enron.com, w..white@enron.com, 
+	a..allen@enron.com, m..grace@enron.com, steve.nat@enron.com, 
+	duong.luu@enron.com, dave.nommensen@enron.com, will.smith@enron.com, 
+	corry.bentley@enron.com, madhup.kumar@enron.com, 
+	arun.balasundaram@enron.com, rika.imai@enron.com, 
+	garrett.tripp@enron.com, norman.lee@enron.com, steve.gim@enron.com, 
+	michael.marryott@enron.com
+Subject: Canceled: East Trading Desk  Requirements Review - Project Spark
+ GAP
+Cc: casey.evans@enron.com, andy.rodriquez@enron.com, david.poston@enron.com, 
+	a..allen@enron.com, garrett.tripp@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: casey.evans@enron.com, andy.rodriquez@enron.com, david.poston@enron.com, 
+	a..allen@enron.com, garrett.tripp@enron.com
+
+The latest requirements are below.  Please let me know if you can not attend today.  Please bring a copy of the requirements sheet with you today.  
+
+Thank you. 
+
+<true_name> Debra
+
+
+ </true_name> Objective:
+
+Review all East Desk tactical systems requirements and receive status on development progress.  This will be a high level review meeting.  Requirements needing detailed discussions will be identified and scheduled for individual scoping / design meetings.  
+
+Agenda: (Note: our first meeting may go over 1 hour)
+
+-  Volume Mngt. and Settlements (15 min):  Requirements - <true_name> Thresa Allen  </true_name> (business lead)
+-                                                               Status - <true_name> David Poston  </true_name> (IT support)
+-  Scheduling and Trading (15 min):  Requirements - <true_name> Corry Bentley  </true_name> (business lead)
+-                                                   Status - <true_name> Duong Luu  </true_name> / <true_name> Will Smith  </true_name> (IT support)
+-  Fundamentals / Genco / Services (15 min):  Requirements - <true_name> Lloyd Will  </true_name> (business lead)
+-                                                                  Status - <true_name> Madhup Kumar  </true_name> (IT support)
+-  Risk Management (15 min):  Requirements - <true_name> Stacey White  </true_name> (business lead) 
+-                                            Status - <true_name> Dave Nommensen  </true_name> / <true_name> Duong Luu
+
+ </true_name> Please let me know if you have any questions or suggestions.
+
+Thank you.   
+
+<true_name> Debra
+ </true_name> 713-853-1657

@@ -1,0 +1,13 @@
+Message-ID:  16068100.1072121654636.JavaMail.evans@thyme
+Date: Fri, 17 Aug 2001 07:54:42 -0700 (PDT)
+From: w..white@enron.com
+Subject: Services Meeting w/ Accounting
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<true_name> Andrea Dahlke
+ </true_name> <true_name> Tim Carter
+ </true_name> <true_name> Thresa Allen
+ </true_name> Melissa Ratnala
+Tracy Irvin

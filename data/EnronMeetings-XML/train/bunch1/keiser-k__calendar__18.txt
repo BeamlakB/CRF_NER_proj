@@ -1,0 +1,19 @@
+Message-ID: <7722588.1072119842950.JavaMail.evans@thyme>
+Date: Fri, 19 Oct 2001 15:30:42 -0700 (PDT)
+From: jason.mcnair@enron.com
+To: jason.mcnair@enron.com, r..harrington@enron.com, araceli.romero@enron.com, 
+	kam.keiser@enron.com, m..love@enron.com, anne.bike@enron.com, 
+	errol.mclaughlin@enron.com, d..winfree@enron.com, 
+	russ.severson@enron.com, greg.couch@enron.com
+Subject: Updated: Meeting about Unix machines
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+364AC,
+
+We would like to meet to discuss the possibility of changing out your group's unix machines.  Please let me know if there is a conference room in your area that we can meet in.  If not we have one down here that we can use.
+
+Thanks,
+
+<true_name> Jason McNair </true_name> 
